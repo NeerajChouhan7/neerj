@@ -50,17 +50,10 @@ strong::selection,
     .main-div {
         padding: 2%;
     }
-<<<<<<< HEAD
-    .header {
-        padding: 2rem 2rem 0 2rem !important;
-    }
-    .content {
-=======
     .header{
             padding: 2rem 2rem 0 2rem !important;
     }
     .content{
->>>>>>> d2ae3dd9886ad8f4c43239e380345066c125e76f
         padding: 2rem 2rem 0 2rem !important;
     }
 }
