@@ -11,7 +11,16 @@ body {
 
 @media (max-width: 600px) {
     .main-div {
-        padding: 5%;
+           padding: 3%;
+    }
+}
+
+@media (max-width: 300px) {
+    .hide {
+        display: none;
+    }
+    .main-div {
+        padding: 2%;
     }
 }
 
