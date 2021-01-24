@@ -9,50 +9,18 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-p::selection,
-h1::selection,
-span::selection,
-a::selection,
-em::selection,
-del::selection,
-br::selection,
-h6::selection,
-button::selection,
-li::selection,
-strong::selection,
-.highlight {
-    background-color: rgba(204, 238, 253, 0.884);
-}
-
-.i {
-    font-style: italic;
-}
-
 @media (max-width: 600px) {
     .main-div {
         padding: 3%;
     }
-.i{
-    font-style: italic;
-}
-@media (max-width: 600px) {
-    .main-div {
-           padding: 3%;
-    }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 300px) {
     .hide {
         display: none;
     }
     .main-div {
         padding: 2%;
-    }
-    .header{
-            padding: 2rem 2rem 0 2rem !important;
-    }
-    .content{
-        padding: 2rem 2rem 0 2rem !important;
     }
 }
 
@@ -166,25 +134,7 @@ strong::selection,
 .blog-btn button:hover,
 .psych-btn button:hover {
     border-radius: 3px;
-    animation: bg-btn forwards;
-}
-
-@keyframes bg-btn {
-    10% {
-        background: #8d8c87a6;
-    }
-    25% {
-        background: #8d8c8796;
-    }
-    50% {
-        background: #8d8c8767;
-    }
-    75% {
-        background: #8d8c874d;
-    }
-    100% {
-        background: #8d8c873f;
-    }
+    background: #8d8c873f;
 }
 
 @media (max-width: 720px) {
