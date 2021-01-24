@@ -13,7 +13,7 @@ function Home() {
         <div className='container main-div'>
           <div className="row align-items-start header-div p-5 pb-0">
             <div className="col-8 intro">
-                <h1 id="typedtext">Hey 👋, How's it going?</h1>
+                <h1 id="typedtext">Hey 👋<span className='hide'>, How's it going?</span></h1>
             </div>
             <div className="col-4 img-div">
                 <a href='https://twitter.com/_neerajchouhan' target='_blank'><img  className='img' src='https://pbs.twimg.com/profile_images/1338925095016947712/07DT1TqQ_400x400.jpg'/></a>

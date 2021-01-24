@@ -9,6 +9,7 @@ function memes() {
                     <li className="breadcrumb-item active" aria-current="page">Memes</li>
                 </ol>
             </nav>
+            <div className='content-div'>
             <h1 className='heading'>Memes (Real one)</h1>
             <p>
             The word 'Meme' was coined by Richard Dawkins in 1976 in his book 'The Selfish gene'. Many think it was a novel idea but he proposed that it is not. It has been used before in the times of Darwin and Huxley.
@@ -17,7 +18,7 @@ Derived from the Greek word 'Mimeme', meaning imitated thing. But Richard Dawkin
 
 But, what does it really mean?<br /><br />
 
-In the simplest language, a Meme is an idea that spreads through person-to-person by means of imitations within a culture, to carry on the genes safely. The main motive of every meme is the survival of the species or the group.
+In the simplest language, <span className='highlight'>a Meme is an idea that spreads through person-to-person by means of imitations within a culture, to carry on the genes safely.</span> The main motive of every meme is the survival of the species or the group.
 
 The reason why he wanted something which rhymes with the gene is that memes also act like genes, So let me first explain what is a gene. a gene is a set of information about the organism in the DNA like the color of the eye, hair, etc.
 
@@ -37,6 +38,7 @@ Animals are still in that gene game that they have to have their dominance in th
 Capitalism, Secularism, etc. are the memes created by humans that ensure that their genes are carried on successfully. The most successful meme (in an evolutionary sense) to date is Religion. Every single question which we were not able to answer we left it for the religion.
             </p>
         </div>
+    </div>
     )
 }
 
