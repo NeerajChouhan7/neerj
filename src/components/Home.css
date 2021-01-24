@@ -22,6 +22,12 @@ body {
     .main-div {
         padding: 2%;
     }
+    .header{
+            padding: 2rem 2rem 0 2rem !important;
+    }
+    .content{
+        padding: 2rem 2rem 0 2rem !important;
+    }
 }
 
 .content {
