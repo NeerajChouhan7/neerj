@@ -9,6 +9,7 @@ function c_bias() {
                     <li className="breadcrumb-item active" aria-current="page">Avoiding confirmation bias</li>
                 </ol>
             </nav>
+            <div className='content-div'>
             <h1 className='heading'>Avoiding confirmation bias</h1>
             <p><br />
             What is confirmation bias? 
@@ -27,9 +28,9 @@ For most of human history, Decisions tended to be survival based. Humans experie
 
 But with the abundance of information in the world right now. It is a human nature to filter the information and gravitate towards that confirms the beliefs one holds.
 
-<br /><br />Mostly you are not aware of biases that you have and is it affecting your decision making. Confirmation bias clouds our judgment. World is want you want to believe it is.
+<br /><br />Mostly you are not aware of biases that you have and is it affecting your decision making. Confirmation bias clouds our judgment.<em className='i'> World is want you want to believe it is. </em>
 
-So, how can you try your best to avoid it?
+ So, how can you try your best to avoid it?
 <br /><br />
 Beware of repetition. 
 We often think something is true when we have heard it so many times. Because a lie told thousand times eventually becomes a truth. It is one of many weaknesses in the human sensory system. 
@@ -56,6 +57,7 @@ Identify.
 
 If you are agreeing with something. Observe if you are agreeing with an idea or identity. Humans stop questioning beliefs coming from someone who is higher in power, in any sense of the word.
             </p>
+        </div>
         </div>
     )
 }
