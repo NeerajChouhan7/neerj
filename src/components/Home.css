@@ -8,6 +8,7 @@ body {
     color: #000;
     font-family: 'Poppins', sans-serif;
 }
+<<<<<<< HEAD
 
 p::selection,
 h1::selection,
@@ -31,6 +32,14 @@ strong::selection,
 @media (max-width: 600px) {
     .main-div {
         padding: 3%;
+=======
+.i{
+    font-style: italic;
+}
+@media (max-width: 600px) {
+    .main-div {
+           padding: 3%;
+>>>>>>> d2ae3dd9886ad8f4c43239e380345066c125e76f
     }
 }
 
@@ -41,10 +50,17 @@ strong::selection,
     .main-div {
         padding: 2%;
     }
+<<<<<<< HEAD
     .header {
         padding: 2rem 2rem 0 2rem !important;
     }
     .content {
+=======
+    .header{
+            padding: 2rem 2rem 0 2rem !important;
+    }
+    .content{
+>>>>>>> d2ae3dd9886ad8f4c43239e380345066c125e76f
         padding: 2rem 2rem 0 2rem !important;
     }
 }
