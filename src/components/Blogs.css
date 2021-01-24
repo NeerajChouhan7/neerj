@@ -34,6 +34,7 @@ nav {
 @media (max-width: 720px) {
     .essay-btn button {
         padding: 0% 1% 2% 1%;
+        font-size: 18px;
     }
 }
 .essay-btn button:hover {
