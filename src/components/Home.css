@@ -31,7 +31,7 @@ strong::selection,
 @media (max-width: 600px) {
     .main-div {
         padding: 3%;
-
+    }
 .i{
     font-style: italic;
 }
