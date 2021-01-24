@@ -1,0 +1,47 @@
+/* font-family: 'Hachi Maru Pop', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sofia', cursive; 
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+nav {
+    --bs-breadcrumb-divider: '>' !important;
+}
+
+.essay {
+    font-family: 'Poppins', sans-serif;
+}
+
+.essay-btn button {
+    width: 95%;
+    padding: 1%;
+    border: 1px solid black;
+    background: white;
+    padding-top: 5px !important;
+    font-family: 'Montserrat', sans-serif;
+    margin: 1% 0%;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0% 1% .5% 1%;
+    border-radius: 2px;
+    text-align: start;
+}
+
+@media (max-width: 720px) {
+    .essay-btn button {
+        padding: 0% 1% 2% 1%;
+    }
+}
+
+.essay-btn button:hover {
+    border-radius: 3px;
+    background: #8d8c873f;
+}
+
+.essay-v {
+    font-size: 1.5rem;
+}

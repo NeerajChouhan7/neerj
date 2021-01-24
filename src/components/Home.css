@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Lato:wght@400;700;900&family=Poppins:wght@400;500;600&family=Roboto:ital,wght@0,400;0,500;1,400;1,500&family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Montserrat:wght@400;500;600;700;800;900&family=Raleway:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;700;900&display=swap');
+body {
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+
+@media (max-width: 600px) {
+    .main-div {
+        padding: 5%;
+    }
+}
+
+.content {
+    line-height: 35px;
+}
+
+.intro {
+    margin-top: 25px;
+}
+
+.twitter_link {
+    font-family: 'Press Start 2P', cursive;
+    margin: 30px;
+}
+
+.header {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.psych-btn {
+    width: 50%;
+    margin-right: 0px !important;
+    padding-right: 0px;
+    padding-left: 2.5%;
+}
+
+.blog-btn {
+    width: 50%;
+    margin-right: 0px !important;
+    padding-left: 0px;
+}
+
+.psych-btn button {
+    margin: 1% 5%;
+}
+
+.content a {
+    position: relative;
+    color: #000;
+    text-decoration: none;
+    display: inline;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+}
+
+.content a:hover {
+    color: #000;
+    animation: .4s bg-anime ease-in forwards;
+}
+
+@keyframes bg-anime {
+    0% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    10% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(198deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    20% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(216deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    30% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(234deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    40% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(252deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    50% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    65% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(290deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    75% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(310deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    85% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(330deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+    100% {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(360deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 0, 1) 50%, rgba(255, 255, 0, 1) 100%);
+    }
+}
+
+.blog-btn button,
+.psych-btn button {
+    width: 95%;
+    padding: 1%;
+    border: 1px solid black;
+    background: white;
+    padding-top: 5px !important;
+    font-family: 'Montserrat', sans-serif;
+    margin: 1%;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0% 1% 1% 1%;
+    border-radius: 2px;
+}
+
+.blog-btn button:hover,
+.psych-btn button:hover {
+    border-radius: 3px;
+    background: #8d8c873f;
+}
+
+@media (max-width: 720px) {
+    .header {
+        display: block;
+    }
+    .psych-btn,
+    .blog-btn {
+        width: 100%;
+        padding-right: 0px !important;
+        padding-left: 7%;
+    }
+    .intro {
+        margin-top: 5px;
+    }
+}
+
+.header-div {
+    width: 100%;
+}
+
+.passion {
+    text-decoration: line-through;
+}
+
+.essay-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.essay-link:hover {
+    color: #000;
+}
+
+.img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+
+/* 
+.twitter_link a {
+    color: #0000;
+} */
+
+.heading-text {
+    text-align: center;
+}
+
+
+/* font-family: 'Hachi Maru Pop', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sofia', cursive; 
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+*/
+
+
+/* 
+.my-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.my-img-div {
+    text-align: end;
+    padding: 3% 15% 0% 0%;
+}
+
+@media (max-width: 720px) {
+    .my-img-div {
+        padding: 10% 0% 4% 14%;
+    }
+}
+
+*/
+
+
+/* 
+Dark Grey - #CBC8DB
+Light Grey - #FAF8FF */
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+    background-color: rgba(0, 181, 245, 0.05);
+}
+
+.social-container {
+    width: 400px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.social-icons {
+    padding: 0;
+    list-style: none;
+    margin: 1em;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin: 0.15em;
+    position: relative;
+    font-size: 1.2em;
+}
+
+.social-icons i {
+    color: #fff;
+    position: absolute;
+    top: 21px;
+    left: 21px;
+    transition: all 265ms ease-out;
+}
+
+.social-icons a {
+    display: inline-block;
+}
+
+.social-icons a:before {
+    transform: scale(1);
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    content: " ";
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    display: block;
+    background: linear-gradient(45deg, #00b5f5, #51E1ED);
+    transition: all 265ms ease-out;
+}
+
+.social-icons a:hover:before {
+    transform: scale(0);
+    transition: all 265ms ease-in;
+}
+
+.social-icons a:hover i {
+    transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    -webkit-transform: scale(2.2);
+    color: #00b5f5;
+    background: -webkit-linear-gradient(45deg, #00b5f5, #51E1ED);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 265ms ease-in;
+}
