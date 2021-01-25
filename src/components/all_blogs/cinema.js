@@ -18,6 +18,8 @@ function cinema(){
 Good storytelling will make you *not* question its authenticity. From love to gang rivalries, from dragons to time travel, from the 17th century to a psychedelic trip. Good storytelling can give you an experience of all of that. It is very fascinating to me that it is nothing but stories that makes identity. No wonder why people can take lives if the story they were told was a lie or questioned. At the end of the day, humans make sense of reality in stories.
 <br /><br />
 The true essence of filmmaking as an art has been lost in the mainstream cinema of our country. It will take years for the narration of stories to be mainstream in our country. In terms of business, this industry has been one of the most successful industries. So successful that few people who are not even in the political authority can directly influence the lives of millions.
+<br /><br />
+I just love to watch cinema. It is a wormhole to a parallel universe. If are in confusion of getting into film-making or not. In a course on film-making by Martin Scorsese, he says, "If you feel you can't rest until you have told this particular story, then I would be talking to you". And I got my answer, maybe you too.
                 </p>
             </div>
         </div>
