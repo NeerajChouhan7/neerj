@@ -1,5 +1,5 @@
 import React from 'react';
-import './essay.css'
+import './essay.css';
 function cinema(){
     return (
         <div className='essay-container'>
