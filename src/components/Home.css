@@ -194,7 +194,11 @@ strong::selection,
         margin-top: 5px;
     }
 }
-
+@media (max-width: 420px){
+     .intro {
+        margin-top: 35px;
+    }
+}
 .header-div {
     width: 100%;
 }
