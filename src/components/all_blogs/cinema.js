@@ -7,7 +7,7 @@ function cinema(){
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><a href="/">Home</a></li>
                     <li className="breadcrumb-item" aria-current="page"><a href="/essays">Essays</a></li>
-                    <li className="breadcrumb-item active" aria-current="page">Cinema → Stories</li>
+                    <li className="breadcrumb-item active" aria-current="page">Stories → Cinema</li>
                 </ol>
             </nav>
             <div className='content-div'>
