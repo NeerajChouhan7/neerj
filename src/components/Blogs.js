@@ -17,6 +17,9 @@ function Blogs(){
             <div className='essay-btn'>
                 <a className='essay-link' href='/essays/c_bias'><button>Avoiding Confirmation bias 🧠</button></a>
             </div>
+            <div className='essay-btn'>
+                <a className='essay-link' href='/essays/cinema'><button>Stories → Cinema 📽️</button></a>
+            </div>
         </div>
     )
 }

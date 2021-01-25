@@ -78,6 +78,7 @@ strong::selection,
     width: 50%;
     margin-right: 0px !important;
     padding-left: 0px;
+    margin-bottom: 20px;
 }
 
 .psych-btn button {
@@ -194,11 +195,13 @@ strong::selection,
         margin-top: 5px;
     }
 }
-@media (max-width: 420px){
-     .intro {
+
+@media (max-width: 420px) {
+    .intro {
         margin-top: 35px;
     }
 }
+
 .header-div {
     width: 100%;
 }
