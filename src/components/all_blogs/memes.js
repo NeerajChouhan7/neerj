@@ -1,4 +1,5 @@
 import './essay.css'
+import { Link } from 'react-router-dom';
 function memes() {
     return(
         <div className='essay-container'>

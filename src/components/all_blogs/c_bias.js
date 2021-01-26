@@ -1,4 +1,5 @@
 import './essay.css'
+import { Link } from 'react-router-dom';
 function c_bias() {
     return(
         <div className='essay-container'>
@@ -22,7 +23,7 @@ Basically, selective collection of evidence for your decision making aligned wit
 
 <strong>“What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.”</strong>
 
-— Warren Buffett
+— Warren Buffetts
 
 For most of human history, Decisions tended to be survival based. Humans experienced very little new information during their lifetimes. 
 

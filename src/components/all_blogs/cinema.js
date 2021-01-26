@@ -1,5 +1,6 @@
 import React from 'react';
 import './essay.css';
+import { Link } from 'react-router-dom';
 function cinema(){
     return (
         <div className='essay-container'>
