@@ -24,14 +24,14 @@ export default function bookshelf(){
             </ul>
             <h6>Books</h6>
             <ul>
-                <li>Autobiography of yogi - Paramhansa Yogananda</li>
+                <li>Autobiography of a yogi - Paramhansa Yogananda</li>
                 <li>My experiments with truth - M.K. Gandhi</li>
                 <li className='highlight'>Animal Farm - George Orwell </li>
-                <li>Metamorphosis - Franz Kafka</li>
                 <li>Deep Work - Cal Newport</li>
                 <li className='highlight'>Think and grow rich - Napolean Hill</li>
                 <li>Inner Engineering - Sadhguru</li>
                 <li>Life's amazing secrets - Gaur Gopal Das</li>
+                <li className='highlight'>Metamorphosis - Franz Kafka</li>
                 <li>Immortal talks 1 - Shunya</li>
                 <li>Poor Economics - Esther Duflo & Abhijit Banarjee</li>
                 <li>Pride & Prejudice - Jane Austen</li>
@@ -42,9 +42,9 @@ export default function bookshelf(){
                 <li>Zero to One - Peter Thiel</li>
                 <li>Monk who sold his Ferrari - Robin Sharma</li>
                 <li>21 lessons for 21st Century - Yuval Noah Harari</li>
-                <li className='highlight'>Man's search for meaning. - Victor Frankl</li>
-                <li>The Lost Symbol - Dan Brown</li>
                 <li>Sapiens - Yuval Noah Harari</li>
+                <li className='highlight'>Man's search for meaning - Victor Frankl</li>
+                <li>The Lost Symbol - Dan Brown</li>
                 <li>We are displaced -Malaya</li>
                 <li>The Google Story - David Vice</li>
                 <li>13 Reasons Why - Jay Asher</li>
@@ -57,7 +57,7 @@ export default function bookshelf(){
                 <li>Harry Potter and Prisoner of Azkaban - J.K. Rowling</li>
                 <li className='highlight'>Harry Potter and the Deathly Hallows - J.K. Rowling</li>
                 <li>Bobby Fischer teaches Chess - Bobby Fischer</li>
-                <li>The Silent Patient - Alex Michaelides</li>
+                <li className='highlight'>The Silent Patient - Alex Michaelides</li>
                 <li>For the love of physics - Walter Lewin</li>
                 <li>The Psychology of Selling - Brian Tracy</li>
                 <li className='highlight'>The Third Door - Alex Banayan</li>
@@ -79,13 +79,13 @@ export default function bookshelf(){
                 <li>Thinking Fast & Slow</li>
                 <li>Traction</li>
                 <li>The Power of Subconcious Mind</li>
-                <li>...will add more if I get time or remember any</li>
+                <li>...will add more if I get time or remember any.</li>
             </ul>
             <h6>To Read...</h6>
             <ul>
                 <li>The virtue of selfishness - Ayn Rand</li>
                 <li>Made in America - Sam Walton</li>
-                <li>1984 </li>
+                <li>1984</li>
                 <li>Juilius Caesar</li>
                 <li>Autobiography of Ben Franklin</li>
                 <li>Corporate Chanakya</li>
