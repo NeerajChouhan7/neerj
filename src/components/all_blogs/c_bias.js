@@ -17,7 +17,7 @@ function c_bias() {
 
 How can you avoid it in your decision making?<br /><br />
 
-According to Wikipedia,  It is the tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values.
+According to Wikipedia,  It is the tendency to search to, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values.
 
 Basically, selective collection of evidence for your decision making aligned with beliefs you hold.<br /><br />
 

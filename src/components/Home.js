@@ -34,7 +34,7 @@ Also, I do write sometimes which you can check by clicking the button below 👇
                     <a className='essay-link' href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+Neeraj,+Hope+you%27re+doing+good.+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0' target='_blank'><button>Psych 🧠</button></a>
                 </div>
                 <div className='blog-btn' id='essay-btn'>
-                    <Link className='essay-link' to='/essays'>Essay ✍🏻</Link>
+                    <Link className='essay-link' to='/essays'><button>Essay ✍🏻</button></Link>
                 </div>
                 
             </div>
