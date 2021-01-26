@@ -67,7 +67,7 @@ export default function bookshelf(){
                 <li>3 Mistakes of my life</li>
                 <li>Diary of a Wimpy Kid - The Third Wheel</li>
                 <li>The Theory of everything</li>
-                <li className='highlight'>Stev Jobs</li>
+                <li className='highlight'>Steve Jobs</li>
                 <li>How to win friends & influence people</li>
                 <li>How to top worrying and start living</li>
                 <li className='highlight'>Elon Musk</li>
