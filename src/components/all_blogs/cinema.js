@@ -5,8 +5,8 @@ function cinema(){
         <div className='essay-container'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
-                    <li className="breadcrumb-item"><a href="/">Home</a></li>
-                    <li className="breadcrumb-item" aria-current="page"><a href="/essays">Essays</a></li>
+                    <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
+                    <li className="breadcrumb-item" aria-current="page"><Link to='/essays'>Essays</Link></li>
                     <li className="breadcrumb-item active" aria-current="page">Stories → Cinema</li>
                 </ol>
             </nav>
