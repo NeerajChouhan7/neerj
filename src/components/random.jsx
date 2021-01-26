@@ -12,10 +12,16 @@ export default function random(){
             </nav>
             <ul>
                 <li>
-                    <h6>Connect - <a href='https://twitter.com/_neerajchouhan'>@_neerajchouhan</a></h6>
+                    <h5>Twitter - <a href='https://twitter.com/_neerajchouhan'>@_neerajchouhan</a></h5>
                 </li>
                 <li>
-                    <h6><Link to='/bookshelf'>Bookshelf</Link></h6>
+                    <h5>Linkedin - <a href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>Neeraj Chouhan</a></h5>
+                </li>
+                <li>
+                    <h5>Email - neeraj1chouhan@gmail.com</h5>
+                </li>
+                <li>
+                    <h5><Link to='/bookshelf'>Bookshelf </Link>📚</h5>
                 </li>
             </ul>
         </div>

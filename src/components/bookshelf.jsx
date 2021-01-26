@@ -53,6 +53,7 @@ export default function bookshelf(){
                 <li>Brief Answers to the Big Questions - Stephen Hawkings</li>
                 <li>Harry Potter and sorcerer's stone - J.K. Rowling</li>
                 <li>Harry Potter and chamber of secrets- J.K. Rowling</li>
+                <li>Harry Potter and the goblet of fire - J.K. Rowling</li>
                 <li>Harry Potter and Prisoner of Azkaban - J.K. Rowling</li>
                 <li className='highlight'>Harry Potter and the Deathly Hallows - J.K. Rowling</li>
                 <li>Bobby Fischer teaches Chess - Bobby Fischer</li>
@@ -71,9 +72,32 @@ export default function bookshelf(){
                 <li>How to top worrying and start living</li>
                 <li className='highlight'>Elon Musk</li>
                 <li>Who will cry when you die</li>
-                <li>The Mastery Manual</li>                
+                <li>The Mastery Manual</li>       
+                <li>Rich Dad Poor Dad</li>          
+                <li>The Secret</li> 
+                <li>A Short History of Nearly Everything</li>
+                <li>Thinking Fast & Slow</li>
+                <li>Traction</li>
                 <li>The Power of Subconcious Mind</li>
                 <li>...will add more if I get time or remember any</li>
+            </ul>
+            <h6>To Read...</h6>
+            <ul>
+                <li>The virtue of selfishness - Ayn Rand</li>
+                <li>Made in America - Sam Walton</li>
+                <li>1984 </li>
+                <li>Juilius Caesar</li>
+                <li>Autobiography of Ben Franklin</li>
+                <li>Corporate Chanakya</li>
+                <li>In defence of sanity</li>
+                <li>Brief history of religion - Richard H.</li>
+                <li>Shantaram</li>
+                <li>To sell is human - Daniel Pink</li>
+                <li>Modern man in search of soul - Carl Jung</li>
+                <li>Range - David Epstein</li>
+                <li>Atonment - Iam Mac Ewan</li>
+                <li>The three body problem</li>
+                <li>Greatest salesman in the world</li>
             </ul>
         </div>
         </div>
