@@ -7,6 +7,8 @@ import Work from './components/Work';
 import memes from './components/all_blogs/memes';
 import c_bias from './components/all_blogs/c_bias';
 import cinema from './components/all_blogs/cinema';
+import bookshelf from './components/bookshelf';
+import random from './components/random';
 
 
 
@@ -21,6 +23,8 @@ function App() {
           <Route path='/essays/memes' component={memes} />
           <Route path='/essays/c_bias' component={c_bias} />
           <Route path='/essays/cinema' component={cinema} />
+          <Route path='/random' component={random} />
+          <Route path='/bookshelf' component={bookshelf} />
           <Route path='/essays' component={Blogs} />
           <Route path='/work' component={Work} />
         </Switch>

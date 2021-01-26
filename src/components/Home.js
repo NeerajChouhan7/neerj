@@ -25,7 +25,7 @@ Interested in Psychology, filmmaking & business, running a newsletter with 200+ 
 Before Upraised, I was working as a freelance full stack web developer and a front end developer at <a data-content='Upraised' href='https://www.revoteen.com/' target="_blank">Revoteen</a>.
 Also, did some other stuff which you can check <a href='https://twitter.com/_neerajchouhan/status/1343755915061841920?s=20' target='_blank'>here</a>. 
 Right now working on a side project - <em className='i'>Study for exam</em>. Doing it because of my <del>passion</del> parents.
-Also, I do write sometimes which you can check by clicking the button below 👇. <a href='https://twitter.com/_neerajchouhan' target='_blank'>Drop  me a message</a>
+Also, I do write sometimes which you can check by clicking the button below 👇. <Link to='/random'>Random</Link>
             </p>
         </div>
         <div className="container">
