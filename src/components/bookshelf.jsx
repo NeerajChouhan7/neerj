@@ -13,14 +13,14 @@ export default function bookshelf(){
             </nav>
             <div className='content'>
             <h1>Bookshelf</h1>
-            <p>Listing down all the books that I read, just to keep track and higlighted <span className='highlight'>must read Books</span></p>
+            <p>Listing down all the books that I read, just to keep track and higlighted <span className='highlight'>must read books</span></p>
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
                     That will <em className='i'>never</em> work - Marc Randolph
                 </li>
                 <li>
-                    The Hitchhiker's Guide to Galaxy - Douglas Adams
+                    The Restaurent at the end of the Universe - Douglas Adams
                 </li>
             </ul>
             <h6>Books</h6>
@@ -31,6 +31,7 @@ export default function bookshelf(){
                 <li>Deep Work - Cal Newport</li>
                 <li className='highlight'>Think and grow rich - Napolean Hill</li>
                 <li>Inner Engineering - Sadhguru</li>
+                <li className='highlight'>The Hitchhiker's Guide to Galaxy - Douglas Adams</li>
                 <li>Life's amazing secrets - Gaur Gopal Das</li>
                 <li className='highlight'>Metamorphosis - Franz Kafka</li>
                 <li>Immortal talks 1 - Shunya</li>
