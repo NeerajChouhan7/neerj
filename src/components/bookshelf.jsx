@@ -61,7 +61,7 @@ export default function bookshelf(){
                 <li>The Psychology of Selling - Brian Tracy</li>
                 <li className='highlight'>The Third Door - Alex Banayan</li>
                 <li>12 Rules for Life - Jordan Peterson</li>
-                <li>Th Alchemist</li>
+                <li>The Alchemist</li>
                 <li>Five Point Someone</li>
                 <li>3 Mistakes of my life</li>
                 <li>Diary of a Wimpy Kid - The Third Wheel</li>
@@ -70,6 +70,8 @@ export default function bookshelf(){
                 <li>How to win friends & influence people</li>
                 <li>How to top worrying and start living</li>
                 <li className='highlight'>Elon Musk</li>
+                <li>Who will cry when you die</li>
+                <li>The Mastery Manual</li>                
                 <li>The Power of Subconcious Mind</li>
                 <li>...will add more if I get time or remember any</li>
             </ul>
