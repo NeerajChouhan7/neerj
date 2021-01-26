@@ -16,7 +16,7 @@ export default function bookshelf(){
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
-                    That will <em className='i'>never<em> work - Marc Randolph
+                    That will <em className='i'>never</em> work - Marc Randolph
                 </li>
                 <li>
                     The Hitchhiker's Guide to Galaxy - Douglas Adams
