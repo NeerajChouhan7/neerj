@@ -19,7 +19,7 @@ export default function bookshelf(){
                     That will <em className='i'>never</em> work - Marc Randolph
                 </li>
                 <li>
-                    The Hitchhiker's Guide to Galaxy - Douglas Adams
+                    The Restaurent at the end of the Universe - Douglas Adams
                 </li>
             </ul>
             <h6>Books</h6>
@@ -30,6 +30,7 @@ export default function bookshelf(){
                 <li>Deep Work - Cal Newport</li>
                 <li className='highlight'>Think and grow rich - Napolean Hill</li>
                 <li>Inner Engineering - Sadhguru</li>
+                <li className='highlight'>The Hitchhiker's Guide to Galaxy - Douglas Adams</li>
                 <li>Life's amazing secrets - Gaur Gopal Das</li>
                 <li className='highlight'>Metamorphosis - Franz Kafka</li>
                 <li>Immortal talks 1 - Shunya</li>
