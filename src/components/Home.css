@@ -142,7 +142,7 @@ strong::selection,
     }
 }
 
-.blog-btn,
+.blog-btn button,
 .psych-btn button {
     width: 95%;
     padding: 1%;
@@ -157,7 +157,7 @@ strong::selection,
     border-radius: 2px;
 }
 
-.blog-btn:hover,
+.blog-btn button:hover,
 .psych-btn button:hover {
     border-radius: 3px;
     animation: bg-btn forwards;
