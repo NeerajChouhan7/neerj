@@ -12,13 +12,13 @@ function Blogs(){
             </nav>
             <h1 className='essay mt-4'>Essay V<span className='essay-v'>1</span></h1>
             <div className='essay-btn'>
-                <a className='essay-link' href='/essays/memes'><button>Memes 📜</button></a>
+                <Link className='essay-link' to='/essays/memes'><button>Memes 📜</button></Link>
             </div>
             <div className='essay-btn'>
-                <a className='essay-link' href='/essays/c_bias'><button>Avoiding Confirmation bias 🧠</button></a>
+                <Link className='essay-link' to='/essays/c_bias'><button>Avoiding Confirmation bias 🧠</button></Link>
             </div>
             <div className='essay-btn'>
-                <a className='essay-link' href='/essays/cinema'><button>Stories → Cinema 📽️</button></a>
+                <Link className='essay-link' to='/essays/cinema'><button>Stories → Cinema 📽️</button></Link>
             </div>
         </div>
     )
