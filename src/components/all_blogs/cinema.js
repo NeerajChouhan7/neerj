@@ -8,11 +8,11 @@ function cinema(){
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
                     <li className="breadcrumb-item" aria-current="page"><Link to='/essays'>Essays</Link></li>
-                    <li className="breadcrumb-item active" aria-current="page">Stories → Cinema</li>
+                    <li className="breadcrumb-item active" aria-current="page">Stories</li>
                 </ol>
             </nav>
             <div className='content-div'>
-                <h1 className='heading'>Stories → Cinema</h1>
+                <h1 className='heading'>Stories</h1>
                 <p>
                 "Cinema is not an art", my English teacher once said to me. And people still ask me why I am skeptical about the Indian education system. There is no way of understanding your reality better than art. After books, movies are the best way to learn about life without bearing the pain of it. I feel like I am on a psychedelic trip when I am experiencing a good story. I never had that experience but surely it will be very good storytelling. 
 <br /><br />
