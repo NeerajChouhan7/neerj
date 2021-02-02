@@ -20,7 +20,7 @@ function Home() {
             </div>
         </div>
             <p className='content p-5'>
-            I am Neeraj, Currently working as a product management intern at <a data-content='Upraised' href='https://upraised.co' target="_blank">Upraised</a>.
+            I am Neeraj, Currently working as a product management intern at <a data-content='Upraised' href='https://upraised.co' target="_blank">Upraised</a>. Learning <em className='i'>everything</em> to build frontier technology in near future.
 Interested in Psychology, filmmaking & business, running a newsletter with 200+ members on same. 
 Before Upraised, I was working as a freelance full stack web developer and a front end developer at <a data-content='Upraised' href='https://www.revoteen.com/' target="_blank">Revoteen</a>.
 Also, did some other stuff which you can check <a href='https://twitter.com/_neerajchouhan/status/1343755915061841920?s=20' target='_blank'>here</a>. 
