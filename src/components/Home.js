@@ -3,11 +3,27 @@ import {BrowserRouter as Router, Link, Route, Switch} from 'react-router-dom'
 import Blogs from './Blogs';
 import './Home.css';
 import LODASH from 'lodash'
-
+import 'jquery';
 if (process.env.NODE_ENV !== 'production') console.log(LODASH)
 
 function Home() {
-   
+  
+    // if(window.screen.width <= 520){
+    //     if(window.innerHeight != document.body.scrollHeight){
+    //     setTimeout(function(){ 
+    //             var num = 0
+    //             setInterval(() => {
+    //                 if(window.innerHeight == document.body.scrollHeight){
+    //                     return '';
+    //                 }else{
+    //                     window.scrollTo({ left: 0, top: num, behavior: "smooth" });
+    //                     num +=10;
+    //                 }
+    //             }, 100);
+    //          }, 7000);
+    //         }
+    // }
+    
   return (
     <div className="App">
         <div className='container main-div'>
@@ -25,7 +41,7 @@ Interested in Psychology, filmmaking & business, running a newsletter with 200+ 
 Before Upraised, I was working as a freelance full stack web developer and a front end developer at <a data-content='Upraised' href='https://www.revoteen.com/' target="_blank">Revoteen</a>.
 Also, did some other stuff which you can check <a href='https://twitter.com/_neerajchouhan/status/1343755915061841920?s=20' target='_blank'>here</a>. 
 Right now working on a side project - <em className='i'>Study for exam</em>. Doing it because of my <del>passion</del> parents.
-Also, I do write sometimes which you can check by clicking the button below 👇. <Link to='/random'>Connect</Link>
+Also, I do write sometimes which you can check by clicking the button below 👇. <Link to='/random'>Bookshelf</Link>
             </p>
         </div>
         <div className="container">
