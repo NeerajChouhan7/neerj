@@ -17,7 +17,7 @@ export default function bookshelf(){
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
-                    That will <em className='i'>never</em> work - Marc Randolph
+                    1984 - George Orwell
                 </li>
                 <li>
                     The Restaurent at the end of the Universe - Douglas Adams
@@ -25,7 +25,7 @@ export default function bookshelf(){
             </ul>
             <h6>Books</h6>
             <ul>
-                <li>Autobiography of a yogi - Paramhansa Yogananda</li>
+                <li className='highlight'>Autobiography of a yogi - Paramhansa Yogananda</li>
                 <li>My experiments with truth - M.K. Gandhi</li>
                 <li className='highlight'>Animal Farm - George Orwell </li>
                 <li>Deep Work - Cal Newport</li>
@@ -35,6 +35,7 @@ export default function bookshelf(){
                 <li>Life's amazing secrets - Gaur Gopal Das</li>
                 <li className='highlight'>Metamorphosis - Franz Kafka</li>
                 <li>Immortal talks 1 - Shunya</li>
+                <li>That will <em className='i'>never</em> work - Marc Randolph</li>
                 <li>Poor Economics - Esther Duflo & Abhijit Banarjee</li>
                 <li>Pride & Prejudice - Jane Austen</li>
                 <li>Fault in our stars - John Green</li>
@@ -87,7 +88,6 @@ export default function bookshelf(){
             <ul>
                 <li>The virtue of selfishness - Ayn Rand</li>
                 <li>Made in America - Sam Walton</li>
-                <li>1984</li>
                 <li>Juilius Caesar</li>
                 <li>Autobiography of Ben Franklin</li>
                 <li>Corporate Chanakya</li>
