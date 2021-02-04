@@ -20,7 +20,7 @@ Good storytelling will make you not question its authenticity. From love to gang
 <br /><br />
 The true essence of filmmaking as an art has been lost in the mainstream cinema of our country. It will take years for the narration of stories to be mainstream in our country. In terms of business, this industry has been one of the most successful industries. So successful that few people who are not even in the political authority can directly influence the lives of millions.
 <br /><br />
-I just love to watch cinema. It is a wormhole to a parallel universe. If you are in confusion of getting into film-making or not. In a course on film-making by Martin Scorsese, he says, "If you feel you can't rest until you have told this particular story, then I would be talking to you". And I got my answer, maybe you too.
+I just love to watch cinema. It is a wormhole to a parallel universe. If you have confusion of getting into film-making like I once had. In a course on film-making by Martin Scorsese, he says, "If you feel you can't rest until you have told this particular story, then I would be talking to you". I got my answer, maybe you too.
                 </p>
             </div>
         </div>
