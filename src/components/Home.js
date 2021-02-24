@@ -16,7 +16,7 @@ function Home() {
                 <h1 id="typedtext">Hey 👋<span className='hide'>, How's it going?</span></h1>
             </div>
             <div className="col-4 img-div">
-                <a href='https://twitter.com/_neerajchouhan' target='_blank'><img  className='img' src='https://pbs.twimg.com/profile_images/1338925095016947712/07DT1TqQ_400x400.jpg'/></a>
+                <a href='https://twitter.com/_neerajchouhan' target='_blank'><img  className='img' src='https://pbs.twimg.com/profile_images/1361225951678357504/54aQSGQs_400x400.jpg'/></a>
             </div>
         </div>
             <p className='content p-5'>
