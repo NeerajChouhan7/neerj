@@ -38,7 +38,7 @@ Took a walk to the ground. It was July. Everyone was doing the most enjoyable an
 <br />
 After somehow convincing my mother that we only play where sunlight doesn’t come and always field, bat, and bowl in the shadow of a tree. Coming to playing was also a victory in itself. Indian boys can do anything for playing cricket with friends. I repeat, anything. 
 <br />
-
+<br />
 After so much laughing, shouting, cheating, losing, and winning. Sun finally went home and so did we.
                 </p>
             </div>
