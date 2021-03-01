@@ -10,6 +10,7 @@ import cinema from './components/all_blogs/cinema';
 import bookshelf from './components/bookshelf';
 import random from './components/random';
 import curious from './components/all_blogs/meta-curious';
+import freedom from './components/all_blogs/fiction/freedom';
 
 
 
@@ -25,6 +26,7 @@ function App() {
           <Route path='/essays/c_bias' component={c_bias} />
           <Route path='/essays/cinema' component={cinema} />
           <Route path='/essays/meta-curious' component={curious} />
+          <Route path='/fiction/freedom' component={freedom} />
           <Route path='/random' component={random} />
           <Route path='/bookshelf' component={bookshelf} />
           <Route path='/essays' component={Blogs} />
