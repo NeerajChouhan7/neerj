@@ -37,17 +37,17 @@ function Home() {
         </div>
             <p className='content p-5'>
             I am Neeraj, Currently working as a product management intern at <a data-content='Upraised' href='https://upraised.co' target="_blank">Upraised</a>. Learning <em className='i'>everything</em> to build frontier technology in near future.
-Interested in Psychology & Business, running a newsletter with 200+ members on same. 
-Before Upraised, I was working as a freelance full stack web developer and a front end developer at <a data-content='Upraised' href='https://www.revoteen.com/' target="_blank">Revoteen</a>.
-Right now working on a side project - <em className='i'>Study for exam</em>. Doing it because of my <del>passion</del> parents. Planning to apply to US universities for further studies.
-Also, I do write sometimes which you can check <Link to='/essays'>here</Link>. Feel free to <Link to='/random'>reach out</Link> to me.
+Interested in Psychology & Tech, running a newsletter with ~300 members on same. 
+In the process of applying abroad for further studies in the field of pshcology, economics or film-making. 
+Working on several side projects including <a data-content='Upraised' href='' target="_blank">Cato</a>, where we are trying to revamp the broken education system.
+Also, I do write sometimes which you can check <Link to='/essays'>here</Link>. If you are interested in any of things mentioned above, need any help or just want to talk about anything feel free to <Link to='/random'>reach out</Link> to me :)
 
             </p>
         </div>
         <div className="container">
             <div className="header row p-4">
                 <div className='psych-btn' id='psych-btn'>
-                    <a className='essay-link' href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+Neeraj,+Hope+you%27re+doing+good.+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0' target='_blank'><button>Psych 🧠</button></a>
+                    <a className='essay-link' href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0' target='_blank'><button>Psych 🧠</button></a>
                 </div>
                 <div className='blog-btn' id='essay-btn'>
                     <Link className='essay-link' to='/essays'><button>Essay ✍🏻</button></Link>
