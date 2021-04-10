@@ -27,7 +27,7 @@ function App() {
           <Route path='/essays/c_bias' component={c_bias} />
           <Route path='/essays/cinema' component={cinema} />
           <Route path='/essays/meta-curious' component={curious} />
-          <Route path='/essays/privilege' component={[privilege]} />
+          <Route path='/essays/privilege' component={privilege} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/random' component={random} />
           <Route path='/bookshelf' component={bookshelf} />
