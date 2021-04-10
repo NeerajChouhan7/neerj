@@ -13,7 +13,7 @@ function privilege(){
                 </ol>
             </nav>
             <div className='content-div'>
-                <h1 className='heading'>Privelege</h1>
+                <h1 className='heading strong'>Privelege</h1>
                 <p>
 
                 You are privileged. Yes, you are. If you are reading this that means that you have access to the internet, a phone, or laptop, a bed you are lying on or chair you are sitting on, and home you are living in. That is a fact. This is two-way communication from privileged to privileged. It is certain that we left out on the underprivileged and mostly on over-privileged also.
@@ -22,9 +22,11 @@ We all know what privilege means in the materialistic sense. But what does it me
 
 <br />
 <br />
+<br />
 <h3 className='strong'>Leveraging privilege</h3>
 Most people who make it, leverage privilege. It is a moat. At a young age, your source of privilege has the authority to make decisions. But with experience and awareness, you come to realize the effortless benefits and edges you had over others. These advantages could have a significant impact on future events. I mean it surely does, believing that free will does not exist. The family you were born in will affect your life, no doubt about that. But how do you leverage the resources you have and help others and yourself is up to you. Which affects your well-being in life. 
 
+<br />
 <br />
 <br />
 <h3 className='strong'>Bias towards privilege</h3>
@@ -32,16 +34,17 @@ Privileged people knowingly or unknowingly have the bias of assumption. Assuming
 
 <br />
 <br />
+<br />
 <h3 className='strong'>Going down spiral because of lack of it</h3>
 When you are aware that you do not have that luxury, security, or comfort, for the lack of a better word. It is quite possible that you will fall into chaos, the unexplored territory. Luckily, most people are not aware or do not think about it until considerably old age. And those are the luckiest ones I would say. But those who do, think that why I did not have that materialistic belonging when I was young, or maybe right now? Was I not good enough? What did I do? And It is completely fine to get all these questions because at the end of the day your brain has to make sense of the situation. You have to explore that territory, you have brought order to that chaotic part. The conclusion that you could or should come down to is that it was not my fault, for the lack of a better word. My privilege was not in my hands. It was out of my control and it is not possible on earth that I could have controlled it.
 
 <br />
-<br />
+<br /><br />
 <h3 className='strong'>Excess privilege</h3>
 Providing excess privilege to a human is not good from a psychological standpoint. It makes it painfully hard for the provider to handle the given privilege, taking into account that they care about the person who is accessing it. Taking an example of a parent and child here. If the parents have excess access to resources which is here money. How they could refuse their child to buy something or help with anything. Now, here if parents are smart enough, they understand that constantly providing children what they want begets two things. First, they devalue the resource. Second, the desires continue to grow. And it is proven that there is no limit to human desires. Hence, it becomes really hard for parents with access to abundance resources to bring their child in the best way they have in their mind. To quote Jordan Peterson here, "Excess privilege creates spoiled children because they get everything by doing nothing and that won't work in real-world"
 
 <br />
-<br />
+<br /><br />
 Just a thought: <em className='i'>When everyone is equally privileged, keep communism and socialism aside, would it be a utopian or dystopian scenario?</em>
 
 <br />
