@@ -23,6 +23,9 @@ function Blogs(){
             <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/meta-curious'><button>Meta-Curiosity 🕵️</button></Link>
             </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/privilege'><button>Privilege 🎰</button></Link>
+            </div>
         </div>
     )
 }
