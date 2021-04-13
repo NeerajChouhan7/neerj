@@ -50,8 +50,6 @@ Aren't you glad that you were not born in the Great Irish famine? It is certainl
 <br /><br />
 Just a reminder: Have gratitude :)
 
-Just a thought: <em className='i'>When everyone is equally privileged, keep communism and socialism aside, would it be a utopian or dystopian scenario?</em>
-
 <br />
 <br />
                 </p>
