@@ -13,7 +13,9 @@ function privilege(){
                 </ol>
             </nav>
             <div className='content-div'>
-                <h1 className='heading strong bold'>Privelege</h1>
+                <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="10 Apr 2021">
+                    <h1 className='heading strong bold'>Privelege</h1>
+                </span>
                 <p>
                 
                 You are privileged. Yes, you are. If you are reading this that means that you have access to the internet, a phone or a laptop, a bed you are lying on or a chair you are sitting in, and a home you are living in. That is a fact. This is two-way communication from privileged to privileged. It is certain that we left out on the underprivileged and mostly on over-privileged also.
