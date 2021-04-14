@@ -11,11 +11,12 @@ function c_bias() {
                 </ol>
             </nav>
             <div className='content-div'>
-            <button type="button" className="h1btn" data-bs-container="body" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-placement="right" data-bs-content="14 Jan 2021">
-                <h1 className='heading'>Avoiding confirmation bias</h1>
-            </button>
+            
+                <h1 tabindex="0" data-bs-toggle="popover" data-bs-placement="right" data-bs-trigger="hover focus" data-bs-content="14 Jan 2021" className='heading'>Avoiding confirmation bias</h1>
+            
             {/* {<span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-placement="right" data-bs-trigger="hover focus" data-bs-content="14 Jan 2021">
-                
+            <button type="button" className="h1btn" data-bs-container="body" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-placement="right" data-bs-content="14 Jan 2021">    
+            </button>
             </span>} */}
             <p><br />
             What is confirmation bias? 
