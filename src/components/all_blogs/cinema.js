@@ -12,7 +12,9 @@ function cinema(){
                 </ol>
             </nav>
             <div className='content-div'>
-                <h1 className='heading'>Stories</h1>
+                <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-placement="right" data-bs-trigger="hover focus" data-bs-content="02 Dec 2020">
+                    <h1 className='heading'>Stories</h1>
+                </span>
                 <p>
                 "Cinema is not an art", my English teacher once said to me. And people still ask me why I am skeptical about the Indian education system. There is no way of understanding your reality better than art. After books, movies are the best way to learn about life without bearing the pain of it. I feel like I am on a psychedelic trip when I am experiencing a good story. I never had that experience but surely it will be very good storytelling. 
 <br /><br />

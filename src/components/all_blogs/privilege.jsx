@@ -13,7 +13,7 @@ function privilege(){
                 </ol>
             </nav>
             <div className='content-div'>
-                <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="10 Apr 2021">
+                <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-placement="right"data-bs-trigger="hover focus" data-bs-content="10 Apr 2021">
                     <h1 className='heading strong bold'>Privelege</h1>
                 </span>
                 <p>

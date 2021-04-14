@@ -13,7 +13,7 @@ function curious(){
                 </ol>
             </nav>
             <div className='content-div'>
-                <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="28 Feb 2021">
+                <span className="d-inline-block"  data-bs-placement="right"tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="28 Feb 2021">
                     <h1 className='heading'>Meta - Curious</h1>
                 </span>
                 <p>

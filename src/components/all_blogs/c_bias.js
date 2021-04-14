@@ -11,7 +11,9 @@ function c_bias() {
                 </ol>
             </nav>
             <div className='content-div'>
-            <h1 className='heading'>Avoiding confirmation bias</h1>
+            <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-placement="right" data-bs-trigger="hover focus" data-bs-content="14 Jan 2021">
+                <h1 className='heading'>Avoiding confirmation bias</h1>
+            </span>
             <p><br />
             What is confirmation bias? 
 

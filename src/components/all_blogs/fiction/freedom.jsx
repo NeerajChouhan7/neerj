@@ -13,7 +13,9 @@ function freedom(){
                 </ol>
             </nav>
             <div className='content-div'>
-                <h1 className='heading'>Freedom 🏏</h1>
+                <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-placement="right"data-bs-trigger="hover focus" data-bs-content="11 Dec 2020">
+                    <h1 className='heading'>Freedom 🏏</h1>
+                </span>
                 <p>There is a mood for mothers in the morning where they are in between shouting and slapping you. Due to my small but regular experience, I sensed that a slap could come and wake me up anytime, so I woke up. Tea was already beside me with 2 <em className='i'>tosh</em>. Mom said, “Quickly, get ready, I will send the lunch in the recess.” It’s only a matter of time when my bus driver uncle will be shouting my name from outside. I always think that that’s how die-hard fans shout from outside of the house. And in that daydreaming, I forgot to tie my shoelaces. With a tie in my hand because I don’t know how to tie one. I ran towards the bus with a bag only on my one shoulder. That was the only weight we were carrying at that age on our shoulders. We wish we always have the same enthusiasm as we had in our childhood. But it is beautiful only when you’re staring at the clouds, in the nostalgia of your childhood. Suddenly back pain comes in that picture of you running and playing as a child and reminds you of your real age and the other age according to your back.
                 <br /><br />
                 Just another day, went and slapped my friend from behind, unlike a normal human being he smiled. Told him to tie my tie. While he was putting a tie in his neck, I asked him if he had done the homework because I haven’t. He said he also forgot, I was relaxed.
