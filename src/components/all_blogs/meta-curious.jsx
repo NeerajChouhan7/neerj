@@ -25,6 +25,10 @@ Behavior is one of the things that intrigues me. You can find out in that subje
 <br /><br />
 One day, if psychology could figure out what is consciousness? Maybe it would be included in science.
                 </p>
+                <br />
+            <br />
+            <br />
+            <p style={{color : "rgba(204, 238, 253, 0.884)"}}>Feb 2021</p>
             </div>
         </div>
     )

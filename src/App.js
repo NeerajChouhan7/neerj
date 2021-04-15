@@ -25,7 +25,7 @@ function App() {
           <Route path='/' exact component={Home} />
           <Route path='/essays/memes' component={memes} />
           <Route path='/essays/c_bias' component={c_bias} />
-          <Route path='/essays/cinema' component={cinema} />
+          <Route path='/essays/stories' component={cinema} />
           <Route path='/essays/meta-curious' component={curious} />
           <Route path='/essays/privilege' component={privilege} />
           <Route path='/fiction/freedom' component={freedom} />

@@ -40,6 +40,10 @@ Animals are still in that gene game that they have to have their dominance in th
 <br /><br />
 Capitalism, Secularism, etc. are the memes created by humans that ensure that their genes are carried on successfully. The most successful meme (in an evolutionary sense) to date is Religion. Every single question which we were not able to answer we left it for the religion.
             </p>
+            <br />
+            <br />
+            <br />
+            <p style={{color : "rgba(204, 238, 253, 0.884)"}}>Nov 2020</p>
         </div>
     </div>
     )

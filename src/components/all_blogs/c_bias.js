@@ -67,7 +67,7 @@ If you are agreeing with something. Observe if you are agreeing with an idea or 
             <br />
             <br />
             <br />
-            <p style={{color : "rgba(204, 238, 253, 0.884);"}}>14 Jan 2021</p>
+            <p style={{color : "rgba(204, 238, 253, 0.884)"}}>Jan 2021</p>
         </div>
         </div>
     )

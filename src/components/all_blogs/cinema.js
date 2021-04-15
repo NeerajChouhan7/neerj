@@ -24,6 +24,10 @@ The true essence of filmmaking as an art has been lost in the mainstream cinema 
 <br /><br />
 I just love to watch cinema. It is a wormhole to a parallel universe. If you have confusion of getting into film-making like I once had. In a course on film-making by Martin Scorsese, he says, "If you feel you can't rest until you have told this particular story, then I would be talking to you". I got my answer, maybe you too.
                 </p>
+                <br />
+            <br />
+            <br />
+            <p style={{color : "rgba(204, 238, 253, 0.884)"}}>Dec 2020</p>
             </div>
         </div>
     )

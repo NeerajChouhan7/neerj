@@ -18,7 +18,7 @@ function Blogs(){
                 <Link className='essay-link' to='/essays/c_bias'><button>Avoiding Confirmation bias 🧠</button></Link>
             </div>
             <div className='essay-btn'>
-                <Link className='essay-link' to='/essays/cinema'><button>Stories 📽️</button></Link>
+                <Link className='essay-link' to='/essays/stories'><button>Stories 📽️</button></Link>
             </div>
             <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/meta-curious'><button>Meta-Curiosity 🕵️</button></Link>
