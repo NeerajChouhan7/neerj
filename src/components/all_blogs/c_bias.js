@@ -65,6 +65,8 @@ Identify.
 If you are agreeing with something. Observe if you are agreeing with an idea or identity. Humans stop questioning beliefs coming from someone who is higher in power, in any sense of the word.
             </p>
             <br />
+            <br />
+            <br />
             <p style={{color : "rgba(204, 238, 253, 0.884);"}}>14 Jan 2021</p>
         </div>
         </div>
@@ -72,3 +74,4 @@ If you are agreeing with something. Observe if you are agreeing with an idea or 
 }
 
 export default c_bias
+
