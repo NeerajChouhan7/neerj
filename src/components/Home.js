@@ -38,8 +38,7 @@ function Home() {
             <p className='content p-5'>
             I am Neeraj, Currently working as a product management intern at <a data-content='Upraised' href='https://upraised.co' target="_blank">Upraised</a>. Learning <em className='i'>everything</em> to build frontier technology in near future.
 Interested in Psychology & Tech, running a newsletter with ~300 members on same. 
-In the process of applying abroad for further studies in the field of pshcology, economics or film-making. 
-Working on several side projects including <a data-content='Upraised' href='' target="_blank">Cato</a>, where we are trying to revamp the broken education system.
+In the process of applying abroad for further studies in the field of psychology, economics or film-making.
 Also, I do write sometimes which you can check <Link to='/essays'>here</Link>. If you are interested in any of things mentioned above, need any help or just want to talk about anything feel free to <Link to='/random'>reach out</Link> to me :)
     BTW, if you like coffee ☕, click <a data-content='Upraised' href='https://www.buymeacoffee.com/neer' target="_blank">here</a> 
 
