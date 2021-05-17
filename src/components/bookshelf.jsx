@@ -17,7 +17,7 @@ export default function bookshelf(){
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
-                    1984 - George Orwell
+                    Made in America - Sam Walton
                 </li>
                 <li>
                     The Restaurent at the end of the Universe - Douglas Adams
@@ -27,21 +27,23 @@ export default function bookshelf(){
             <ul>
                 <li className='highlight'>Autobiography of a yogi - Paramhansa Yogananda</li>
                 <li>My experiments with truth - M.K. Gandhi</li>
+                <li>1984 - George Orwell</li>
                 <li className='highlight'>Animal Farm - George Orwell </li>
                 <li>Deep Work - Cal Newport</li>
-                <li className='highlight'>Think and grow rich - Napolean Hill</li>
+                <li>Think and grow rich - Napolean Hill</li>
                 <li>Inner Engineering - Sadhguru</li>
+                <li>Pride & Prejudice - Jane Austen</li>
+                <li>Be here now - Baba Ram Das</li>
                 <li className='highlight'>The Hitchhiker's Guide to Galaxy - Douglas Adams</li>
                 <li>Life's amazing secrets - Gaur Gopal Das</li>
+                <li>Autobiography of Ben Franklin</li>
                 <li className='highlight'>Metamorphosis - Franz Kafka</li>
                 <li>Immortal talks 1 - Shunya</li>
                 <li>That will <em className='i'>never</em> work - Marc Randolph</li>
                 <li>Poor Economics - Esther Duflo & Abhijit Banarjee</li>
-                <li>Pride & Prejudice - Jane Austen</li>
-                <li>Fault in our stars - John Green</li>
+                <li className='highlight'>Fault in our stars - John Green</li>
                 <li>Looking for Alaska - John Green</li>
                 <li>The Slap - Christos Tsiolkas</li>
-                <li>Be here now - Baba Ram Das</li>
                 <li>Zero to One - Peter Thiel</li>
                 <li>Monk who sold his Ferrari - Robin Sharma</li>
                 <li>21 lessons for 21st Century - Yuval Noah Harari</li>
@@ -60,6 +62,7 @@ export default function bookshelf(){
                 <li>Harry Potter and Prisoner of Azkaban - J.K. Rowling</li>
                 <li className='highlight'>Harry Potter and the Deathly Hallows - J.K. Rowling</li>
                 <li>Bobby Fischer teaches Chess - Bobby Fischer</li>
+                <li>The virtue of selfishness - Ayn Rand</li>
                 <li className='highlight'>The Silent Patient - Alex Michaelides</li>
                 <li>For the love of physics - Walter Lewin</li>
                 <li>The Psychology of Selling - Brian Tracy</li>
@@ -86,10 +89,8 @@ export default function bookshelf(){
             </ul>
             <h6>To Read...</h6>
             <ul>
-                <li>The virtue of selfishness - Ayn Rand</li>
-                <li>Made in America - Sam Walton</li>
+               
                 <li>Juilius Caesar</li>
-                <li>Autobiography of Ben Franklin</li>
                 <li>Corporate Chanakya</li>
                 <li>In defence of sanity</li>
                 <li>Brief history of religion - Richard H.</li>
