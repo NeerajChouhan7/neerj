@@ -1,8 +1,7 @@
-import './essay.css'
 import { Link } from 'react-router-dom';
 function c_bias() {
     return(
-        <div className='essay-container'>
+        <div className='container mx-auto text-start mt-5 justify-content-start align-items-start'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>

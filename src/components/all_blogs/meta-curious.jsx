@@ -1,10 +1,9 @@
 import React from 'react';
-import './essay.css';
 import { Link } from 'react-router-dom';
 
 function curious(){
     return (
-        <div className='essay-container'>
+        <div className='container mx-auto text-start mt-5'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>

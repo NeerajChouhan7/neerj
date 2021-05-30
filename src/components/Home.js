@@ -1,10 +1,14 @@
 import React, { Profiler } from 'react';
 import {BrowserRouter as Router, Link, Route, Switch} from 'react-router-dom'
-import Blogs from './Blogs';
-import './Home.css';
 import LODASH from 'lodash'
 import 'jquery';
+import Blogs from './Blogs';
+import About from './About'
+
 if (process.env.NODE_ENV !== 'production') console.log(LODASH)
+const pathname = window.location.pathname
+console.log(pathname);
+
 
 function Home() {
   
@@ -25,22 +29,31 @@ function Home() {
     // }
     
   return (
-    <div className="App">
-        <div className='container main-div'>
-          <div className="row align-items-start header-div p-5 pb-0">
+    <div className=" container homepage mt-5 text-start">
+        <h1 className='mb-3 mt-1'>Neeraj Chouhan</h1>
+        <img className='mb-5' height='100' src='https://pbs.twimg.com/profile_images/1361225951678357504/54aQSGQs_400x400.jpg'/>
+        <p>Hey, This guy up there is <Link to='/about'>Neeraj</Link></p>
+        <p>What do I do? Find out <Link to='/work'>here</Link>...click it. It's exciting.</p>
+        {/* <p>Currently working at <a target='_blank' href='https://upraised.co'>Upraised</a></p> */}
+        <p>Writes with his 2 brain cells <Link to='/essays'>here</Link></p>
+        <p>and writes without those cells <a target='_blank' href='https://twitter.com/_neerajchouhan'>here</a></p>
+
+
+
+
+          {/* <div className="row align-items-start header-div p-5 pb-0">
             <div className="col-8 intro">
                 <h1 id="typedtext">Hey 👋<span className='hide'>, How's it going?</span></h1>
             </div>
-            <div className="col-4 img-div">
-                <a href='https://twitter.com/_neerajchouhan' target='_blank'><img  className='img' src='https://pbs.twimg.com/profile_images/1361225951678357504/54aQSGQs_400x400.jpg'/></a>
-            </div>
+            <div className="col-4 img-div"> */}
+                {/* <a href='https://twitter.com/_neerajchouhan' target='_blank'><img  className='img' src='https://pbs.twimg.com/profile_images/1361225951678357504/54aQSGQs_400x400.jpg'/></a> */}
+            {/* </div>
         </div>
             <p className='content p-5'>
             I am Neeraj, Currently working as a product management intern at <a data-content='Upraised' href='https://upraised.co' target="_blank">Upraised</a>. Learning <em className='i'>everything</em> to build frontier technology in near future.
 Interested in Psychology & Tech, running a newsletter with ~300 members on same. 
 In the process of applying abroad for further studies in the field of psychology, economics or film-making. 
 Also, I do write sometimes which you can check <Link to='/essays'>here</Link>. And if you like Substack and want latest posts right in your inbox, drop your email <a data-content='Upraised' href='https://neerajc.substack.com/' target="_blank">here</a> . If you are interested in any of things mentioned above, need any help or just want to talk about anything feel free to <Link to='/random'>reach out</Link> to me :)
-    BTW, if you like coffee ☕, click <a data-content='Upraised' href='https://www.buymeacoffee.com/neer' target="_blank">here</a> 
 
             </p>
         </div>
@@ -53,8 +66,7 @@ Also, I do write sometimes which you can check <Link to='/essays'>here</Link>. A
                     <Link className='essay-link' to='/essays'><button>Essay ✍🏻</button></Link>
                 </div>
                 
-            </div>
-        </div>
+            </div> */}
     </div>
   );
 }

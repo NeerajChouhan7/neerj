@@ -1,10 +1,9 @@
 import React from 'react';
-import '../essay.css';
 import { Link } from 'react-router-dom';
 
 function freedom(){
     return (
-        <div className='essay-container'>
+        <div className='essay-container container mt-5'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
