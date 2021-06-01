@@ -1,7 +1,7 @@
 import {BrowserRouter as Router, Route, Switch, Link} from 'react-router-dom'
 function Blogs(){
     return(
-        <div className='container text-center align-center row p-3 mt-5'>
+        <div className='container essay-div text-center align-center row p-3 mt-5'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
