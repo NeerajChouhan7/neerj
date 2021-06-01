@@ -1,7 +1,7 @@
 import {BrowserRouter as Router, Route, Switch, Link} from 'react-router-dom'
 function Blogs(){
     return(
-        <div className='container text-center row p-3 mt-5'>
+        <div className='container text-center align-center row p-3 mt-5'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
@@ -28,7 +28,7 @@ function Blogs(){
                 <Link className='essay-link' to='/essays/metaverse'>Metaverse - Non-entropy world</Link>
             </div>
             <div className='border-bottom border-light border-5'></div>
-            <p className='mt-3'>Read them on <a href='https://neerajc.substack.com/'>Substack</a>. Yes, I insist.</p>
+            <p className='mt-3'>Read them on <a href='https://neerajc.substack.com/'>Substack</a>. Yep, it's better than these. So, do it.</p>
         </div>
     )
 }
