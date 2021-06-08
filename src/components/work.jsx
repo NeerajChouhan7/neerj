@@ -13,19 +13,19 @@ function Work() {
             </nav>
            <h6>Currently...</h6>
            <li>
-             <p>Product Management Intern at <a>Upraised</a></p>
+             Product Management Intern at <a>Upraised</a>
            </li>
            <li>
-            <p>Writing newsletter on <a href='https://neerajc.substack.com/'>Substack</a>. Just read it. Don't sub, but read.</p>
+            Writing newsletter on <a href='https://neerajc.substack.com/'>Substack</a>. Just read it. Don't sub, but read.
            </li>
            <li>
-            <p>Running a newsletter on psychology with ~300 members. If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a></p>
+            Running a newsletter on psychology with ~300 members. If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a>
            </li>
            <li>
-            <p>Built several projects as a freelancer and a developer</p>
+            Built several projects as a freelancer and a developer
            </li>
            <li>
-            <p>More about past work exp. <a href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>here</a></p>
+            More about past work exp. <a href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>here</a>
            </li>
         </div>
     )
