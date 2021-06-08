@@ -16,7 +16,7 @@ export default function bookshelf(){
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
-                    Made in America - Sam Walton
+                    Shantaram - Gregory David Roberts
                 </li>
                 <li>
                     The Restaurent at the end of the Universe - Douglas Adams
@@ -91,12 +91,13 @@ export default function bookshelf(){
                
                 <li>Juilius Caesar</li>
                 <li>Corporate Chanakya</li>
-                <li>In defence of sanity</li>
+                <li>In defence of sanity - G.K. Chesterton</li>
                 <li>Brief history of religion - Richard H.</li>
-                <li>Shantaram</li>
+                <li>Made in America - Sam Walton</li>
                 <li>To sell is human - Daniel Pink</li>
                 <li>Modern man in search of soul - Carl Jung</li>
                 <li>Range - David Epstein</li>
+                <li>Surely You're Joking, Mr. Feynman! - Richard Feynman</li>
                 <li>Atonment - Iam Mac Ewan</li>
                 <li>The three body problem</li>
                 <li>Greatest salesman in the world</li>
