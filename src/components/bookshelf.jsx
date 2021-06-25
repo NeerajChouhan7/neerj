@@ -19,7 +19,7 @@ export default function bookshelf(){
                     Shantaram - Gregory David Roberts
                 </li>
                 <li>
-                    The Restaurent at the end of the Universe - Douglas Adams
+                    Homo Deus - Yuval Hoah Harari
                 </li>
             </ul>
             <h6>Books</h6>
