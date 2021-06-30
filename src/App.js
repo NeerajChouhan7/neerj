@@ -13,7 +13,7 @@ import freedom from './components/all_blogs/fiction/freedom';
 import privilege from './components/all_blogs/privilege';
 import About from './components/About';
 import metaverse from './components/all_blogs/metaverse';
-
+import friends from './components/all_blogs/friends'
 
 
 
@@ -29,6 +29,7 @@ function App() {
           <Route path='/essays/meta-curious' component={curious} />
           <Route path='/essays/metaverse' component={metaverse} />
           <Route path='/essays/privilege' component={privilege} />
+          <Route path='/essays/friendships' component={privilege} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/random' component={random} />
           <Route path='/bookshelf' component={bookshelf} />
