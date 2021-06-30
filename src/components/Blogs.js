@@ -27,6 +27,9 @@ function Blogs(){
             <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/metaverse'>Metaverse - Non-entropy world</Link>
             </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/friendships'>on friendships</Link>
+            </div>
             <div className='border-bottom border-light border-5'></div>
             <p className='mt-3'>Read them on <a href='https://neerajc.substack.com/'>Substack</a>. Yep, it's better than these. Click it. Please do. Right now.</p>
         </div>
