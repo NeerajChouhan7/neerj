@@ -29,7 +29,7 @@ function App() {
           <Route path='/essays/meta-curious' component={curious} />
           <Route path='/essays/metaverse' component={metaverse} />
           <Route path='/essays/privilege' component={privilege} />
-          <Route path='/essays/friendships' component={privilege} />
+          <Route path='/essays/friendships' component={friends} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/random' component={random} />
           <Route path='/bookshelf' component={bookshelf} />
