@@ -3,14 +3,14 @@ import {Link} from 'react-router-dom';
 
 export default function bookshelf(){
     return (
-        <div className='container mt-5'>
+        <div className='container mt-5 text-center align-center'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
                     <li className="breadcrumb-item active" aria-current="page">Bookshelf</li>
                 </ol>
             </nav>
-            <div className='content'>
+            <div className='content text-center align-center'>
             <h1>Bookshelf</h1>
             <p>Listing down all the books that I read, just to keep track and higlighted <span className='highlight'>must read books</span></p>
             <h6 className='mt-5'>Currently Reading...</h6>
