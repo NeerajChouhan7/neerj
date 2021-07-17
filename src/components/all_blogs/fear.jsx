@@ -21,7 +21,7 @@ function fear(){
 
                 <br />
             <br />
-Yes, fear is nothing but your imagination's child to procrastinate on things. And no, I am not talking about fear like height, dogs, or water. We are talking about actual psychological fears. Fears which do not let you unlock your potential. Essentially fear is the friction in your life, to polish you. To make you shine, against the surface of life. The only thing in between your current self and desired self is avoidance of that fear. When you avoid fear, knowingly or unknowingly, you kill your dreams. Every dream ever is killed by fear. Your dream of traveling to another country is killed by fear of crime in that country. Your dream of starting a business is killed by fear of being broke. Your dream of talking to a girl is killed by your fear of facing your insecurities.
+Yes, fear is nothing but your imagination's child to procrastinate on things. And no, I am not talking about fear like height, dogs, or water. Actual psychological fears. Fears which do not let you unlock your potential. Essentially fear is the friction in your life, to polish you. To make you shine, against the surface of life. The only thing in between your current self and desired self is avoidance of that fear. When you avoid fear, knowingly or unknowingly, you kill your dreams. Every dream ever is killed by fear. Your dream of traveling to another country is killed by fear of crime in that country. Your dream of starting a business is killed by fear of being broke. Your dream of talking to a girl is killed by your fear of facing your insecurities.
 
 <br />
             <br />
