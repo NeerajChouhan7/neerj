@@ -13,7 +13,7 @@ function friends(){
             </nav>
             <div className='content-div'>
                 <span className="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-placement="right"data-bs-trigger="hover focus" data-bs-content="10 Apr 2021">
-                    <h1 className='heading strong bold'>on friendships</h1>
+                    <h1 className='heading strong bold'>On friendships</h1>
                 </span>
                 <p>
                 

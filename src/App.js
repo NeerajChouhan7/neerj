@@ -14,6 +14,8 @@ import privilege from './components/all_blogs/privilege';
 import About from './components/About';
 import metaverse from './components/all_blogs/metaverse';
 import friends from './components/all_blogs/friends'
+import music from './components/all_blogs/music'
+import fear from './components/all_blogs/fear';
 
 
 
@@ -30,6 +32,8 @@ function App() {
           <Route path='/essays/metaverse' component={metaverse} />
           <Route path='/essays/privilege' component={privilege} />
           <Route path='/essays/friendships' component={friends} />
+          <Route path='/essays/music' component={music} />
+          <Route path='/essays/fear-and-freedom' component={fear} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/random' component={random} />
           <Route path='/bookshelf' component={bookshelf} />
