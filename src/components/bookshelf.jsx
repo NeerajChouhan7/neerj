@@ -67,23 +67,23 @@ export default function bookshelf(){
                 <li>The Psychology of Selling - Brian Tracy</li>
                 <li className='highlight'>The Third Door - Alex Banayan</li>
                 <li>12 Rules for Life - Jordan Peterson</li>
-                <li>The Alchemist</li>
+                <li>The Alchemist </li>
                 <li>Five Point Someone</li>
                 <li>3 Mistakes of my life</li>
                 <li>Diary of a Wimpy Kid - The Third Wheel</li>
-                <li>The Theory of everything</li>
-                <li className='highlight'>Steve Jobs</li>
-                <li>How to win friends & influence people</li>
-                <li>How to top worrying and start living</li>
-                <li className='highlight'>Elon Musk</li>
-                <li>Who will cry when you die</li>
-                <li>The Mastery Manual</li>       
+                <li>The Theory of everything - Stephen Hawkings</li>
+                <li className='highlight'>Steve Jobs - Walter Isaacson</li>
+                <li>How to win friends & influence people - Dale Carnegie</li>
+                <li>How to top worrying and start living - Dale Carnegie</li>
+                <li className='highlight'>Elon Musk - Ashlee Vance</li>
+                <li>Who will cry when you die - Robin Sharma</li>
+                <li>The Mastery Manual - Robin Sharma</li>       
                 <li>Rich Dad Poor Dad</li>          
                 <li>The Secret</li> 
-                <li>A Short History of Nearly Everything</li>
-                <li>Thinking Fast & Slow</li>
-                <li>Traction</li>
                 <li>The Power of Subconcious Mind</li>
+                <li>A Short History of Nearly Everything - Bill Bryson</li>
+                <li>Thinking Fast & Slow - Daniel Kahneman</li>
+                <li>Traction - Gabriel Weinberg and Justin Mares</li>
                 <li>...will add more if I get time or remember any.</li>
             </ul>
             <h6>To Read...</h6>
