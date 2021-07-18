@@ -49,7 +49,7 @@ export default function bookshelf(){
                 <li>Sapiens - Yuval Noah Harari</li>
                 <li className='highlight'>Man's search for meaning - Victor Frankl</li>
                 <li>The Lost Symbol - Dan Brown</li>
-                <li>We are displaced -Malaya</li>
+                <li>We are displaced - Malala Yousafzai</li>
                 <li>The Google Story - David Vice</li>
                 <li>13 Reasons Why - Jay Asher</li>
                 <li>Atomic Habits - James Clear</li>
