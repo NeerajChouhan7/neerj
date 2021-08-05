@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-function cinema(){
+function stories(){
     return (
         <div className='container mx-auto text-start mt-5'>
             <nav aria-label="breadcrumb">
@@ -32,4 +32,4 @@ I just love to watch cinema. It is a wormhole to a parallel universe. If you hav
     )
 }
 
-export default cinema;
+export default stories;

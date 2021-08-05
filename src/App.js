@@ -5,7 +5,7 @@ import Blogs from './components/Blogs';
 import work from './components/work';
 import memes from './components/all_blogs/memes';
 import c_bias from './components/all_blogs/c_bias';
-import cinema from './components/all_blogs/cinema';
+import stories from './components/all_blogs/stories';
 import bookshelf from './components/bookshelf';
 import random from './components/random';
 import curious from './components/all_blogs/meta-curious';
@@ -16,6 +16,7 @@ import metaverse from './components/all_blogs/metaverse';
 import friends from './components/all_blogs/friends'
 import music from './components/all_blogs/music'
 import fear from './components/all_blogs/fear';
+import cinema from './components/all_blogs/cinema';
 
 
 
@@ -27,7 +28,8 @@ function App() {
           <Route path='/' exact component={Home} />
           <Route path='/essays/memes' component={memes} />
           <Route path='/essays/c_bias' component={c_bias} />
-          <Route path='/essays/stories' component={cinema} />
+          <Route path='/essays/stories' component={stories} />
+          <Route path='/essays/cinema' component={cinema} />
           <Route path='/essays/meta-curious' component={curious} />
           <Route path='/essays/metaverse' component={metaverse} />
           <Route path='/essays/privilege' component={privilege} />
