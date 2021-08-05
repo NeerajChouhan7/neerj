@@ -32,7 +32,7 @@ function Home() {
     <div className=" container homepage mt-5 text-start">
         <h1 className='mb-3 mt-1'>Neeraj Chouhan</h1>
         <img className='mb-5' height='100' src='https://pbs.twimg.com/profile_images/1361225951678357504/54aQSGQs_400x400.jpg'/>
-        <p>Hey, This guy up there is <Link to='/about'>Neeraj</Link></p>
+        <p>Hey, this guy up there is <Link to='/about'>Neeraj</Link></p>
         <p>Some of things he does are <Link to='/work'>here</Link></p>
         {/* <p>Currently working at <a target='_blank' href='https://upraised.co'>Upraised</a></p> */}
         <p>Writes with his 2 brain cells <Link to='/essays'>here</Link></p>
