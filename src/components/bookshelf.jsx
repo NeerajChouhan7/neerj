@@ -12,7 +12,7 @@ export default function bookshelf(){
             </nav>
             <div className='content text-start align-start'>
             <h1>Bookshelf</h1>
-            <p>Listing down all the books that I read, just to keep track and higlighted <span className='highlight'>must read books</span></p>
+            <p>Listing down all the books that I read, just to keep track and<span className='highlight'> higlighted</span> must read books</p>
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
