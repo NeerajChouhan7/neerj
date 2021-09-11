@@ -39,3 +39,7 @@ code {
 .essay-div {
     text-align: start !important;
 }
+
+.highlight {
+    background: rgb(194, 194, 231);
+}
