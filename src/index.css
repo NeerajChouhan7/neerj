@@ -44,15 +44,15 @@ code {
     background: #9191f747;
 }
 
-h1,
-h2,
-h6,
-h4,
-h3,
-h5,
-p,
-span,
-em {
+h1::selection,
+h2::selection,
+h6::selection,
+h4::selection,
+h3::selection,
+h5::selection,
+p::selection,
+span::selection,
+em::selection {
     background: #9191f747;
 }
 
