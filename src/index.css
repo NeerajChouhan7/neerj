@@ -55,3 +55,7 @@ span,
 em {
     background: #9191f747;
 }
+
+.work-list li {
+    line-height: 150%;
+}

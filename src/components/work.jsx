@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 function Work() {
     return(
-        <div className='container mt-5 text-start mx-auto'>
+        <div className='container mt-5 text-start mx-auto work-list'>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
@@ -14,10 +14,10 @@ function Work() {
             
            <h6>Currently...</h6>
            <li>
-             Writing a research paper on Augmented Reality(AR)
+             Writing a research paper on <span className="highlight">Augmented Reality(AR)</span>
            </li>
            <li>
-             Exploring blockchain and working on a side project: <em className='i'>Study</em>
+             Exploring <span className='highlight'>blockchain</span> and working on a side project: <em className='i'>Study</em>
            </li>
            <li>
             Writing newsletter on, about almost everthing on <a href='https://neerajc.substack.com/'>Substack</a>.
@@ -33,7 +33,6 @@ function Work() {
            <li>
              Front-end dev at <a href='https://www.revoteen.com/'>Revoteen</a>
            </li>
-           
            <br />
            <h6>Also...</h6>
            <li>
@@ -42,7 +41,8 @@ function Work() {
            <li>
             If you're Linkedin kinda...<a href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>here</a>
            </li>
-           
+           <br/>
+           <br/><br/>
         </div>
     )
 }
