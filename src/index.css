@@ -41,5 +41,17 @@ code {
 }
 
 .highlight {
-    background: rgb(194, 194, 231);
+    background: #9191f747;
+}
+
+h1,
+h2,
+h6,
+h4,
+h3,
+h5,
+p,
+span,
+em {
+    background: #9191f747;
 }
