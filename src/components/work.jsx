@@ -11,22 +11,35 @@ function Work() {
                     <li className="breadcrumb-item active" aria-current="page">Work</li>
                 </ol>
             </nav>
-           <h6>Currently...</h6>
+            <h6>Ex</h6>
            <li>
-             Product Management Intern at <a>Upraised</a>
+             Product Management Intern at <a href='https://upraised.co/'>Upraised</a>
            </li>
            <li>
-            Writing newsletter on <a href='https://neerajc.substack.com/'>Substack</a>. Just read it. Don't sub, but read.
+             Front-end dev at <a href='https://www.revoteen.com/'>Revoteen</a>
+           </li>
+
+           <h6>Currently...</h6>
+           <li>
+             Writing a research paper on Augmented Reality(AR)
+           </li>
+           <li>
+             Exploring blockchain and working on a side project: Study
+           </li>
+           <li>
+            Writing newsletter on, about almost everthing on <a href='https://neerajc.substack.com/'>Substack</a>.
            </li>
            <li>
             Running a newsletter on psychology with ~300 members. If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a>
            </li>
+           <br /><br />>
            <li>
             Built several projects as a freelancer and a developer
            </li>
            <li>
-            More about past work exp. <a href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>here</a>
+            If you're Linkedin kinda...<a href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>here</a>
            </li>
+           
         </div>
     )
 }
