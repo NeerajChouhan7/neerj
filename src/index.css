@@ -52,7 +52,12 @@ h3::selection,
 h5::selection,
 p::selection,
 span::selection,
-em::selection {
+em::selection,
+li::selection,
+ul::selection,
+nav::selection,
+a:hover,
+a::selection {
     background: #9191f747;
 }
 
