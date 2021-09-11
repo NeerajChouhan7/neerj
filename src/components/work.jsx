@@ -17,7 +17,7 @@ function Work() {
              Writing a research paper on Augmented Reality(AR)
            </li>
            <li>
-             Exploring blockchain and working on a side project: Study
+             Exploring blockchain and working on a side project: <em className='i'>Study</em>
            </li>
            <li>
             Writing newsletter on, about almost everthing on <a href='https://neerajc.substack.com/'>Substack</a>.
