@@ -19,7 +19,7 @@ export default function bookshelf(){
                     Shantaram - Gregory David Roberts
                 </li>
                 <li>
-                    Ego is the Enemy - Ryan Holiday
+                    Art of War - Lao Tzu
                 </li>
             </ul>
             <h6>Books</h6>
@@ -84,10 +84,17 @@ export default function bookshelf(){
                 <li>A Short History of Nearly Everything - Bill Bryson</li>
                 <li>Thinking Fast & Slow - Daniel Kahneman</li>
                 <li>Traction - Gabriel Weinberg and Justin Mares</li>
+                
                 <li>
                     Homo Deus - Yuval Hoah Harari
                 </li><li>
                     Tools of Titans - Tim Feriss
+                </li>
+                <li>
+                    Ego is the Enemy - Ryan Holiday
+                </li>
+                <li>
+                    Fooled by Randomness - NN Taleb
                 </li>
                 <li>...will add more if I get time or remember any.</li>
             </ul>
