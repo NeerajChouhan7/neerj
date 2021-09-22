@@ -63,6 +63,14 @@ Music can make you imagine scenarios that have never happened, or to be exact wh
 <br />
 Some songs hurt...but in the best way possible.
 </p>
+<br />
+<br /><br />
+<p>
+P.S. Here's the another short essay for you around the same topic, by yours truly.
+</p>
+<div>
+    <img src='https://pbs.twimg.com/media/E_52PRNVIAkLEbA?format=jpg&name=medium'/>
+</div>
 
             <br />
             <br />
