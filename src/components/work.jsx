@@ -14,7 +14,7 @@ function Work() {
             
            <h6>Currently...</h6>
            <li>
-             Writing a research paper on <span className="highlight">Augmented Reality(AR)</span>
+             Wrote a research paper on <span className="highlight">Augmented Reality(AR) in Education</span> 
            </li>
            <li>
              Exploring <span className='highlight'>blockchain</span> and working on a side project: <em className='i'>Study</em>
