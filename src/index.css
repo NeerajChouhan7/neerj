@@ -64,3 +64,10 @@ a::selection {
 .work-list li {
     line-height: 150%;
 }
+
+.link-img {
+    height: 18px;
+    margin-bottom: 3px;
+    margin-left: -3px;
+    padding-left: 4px;
+}

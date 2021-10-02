@@ -14,7 +14,7 @@ function Work() {
             
            <h6>Currently...</h6>
            <li>
-             Wrote a research paper on Augmented Reality(AR) in Education. <a src='https://drive.google.com/file/d/1Dd4GnqjlP_PW39I23CVbKbgPTG4alB0i/view?usp=sharing' target='_blank'><img src="https://img.icons8.com/ios-glyphs/30/000000/external-link.png"/></a> 
+             Wrote a research paper on Augmented Reality(AR) in Education. <a src='https://drive.google.com/file/d/1Dd4GnqjlP_PW39I23CVbKbgPTG4alB0i/view?usp=sharing' target='_blank' style={{borderRadius:'2px'}}><img class='link-img' src="https://img.icons8.com/ios-glyphs/30/000000/external-link.png"/></a> 
            </li>
            <li>
              Exploring <span className='highlight'>blockchain</span> and working on a side project: <em className='i'>Study</em>
