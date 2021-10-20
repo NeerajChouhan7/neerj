@@ -20,7 +20,7 @@ function Work() {
              Exploring <span className='highlight'>blockchain</span> and working on a side project: <em className='i'>Study</em>
            </li>
            <li>
-            Writing newsletter on, about almost everthing on <a href='https://neerajc.substack.com/'>Substack</a>.
+            Writing newsletter on, about almost everything on <a href='https://neerajc.substack.com/'>Substack</a>.
            </li>
            <li>
             Running a newsletter on psychology with ~300 members. If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a>
