@@ -32,6 +32,9 @@ export default function bookshelf(){
                 <li>Think and grow rich - Napolean Hill</li>
                 <li>Inner Engineering - Sadhguru</li>
                 <li>Pride & Prejudice - Jane Austen</li>
+                <li>
+                    Kafka on the shore - Haruki Murakami
+                </li>
                 <li>Be here now - Baba Ram Das</li>
                 <li className='highlight'>The Hitchhiker's Guide to Galaxy - Douglas Adams</li>
                 <li>Life's amazing secrets - Gaur Gopal Das</li>
@@ -95,6 +98,9 @@ export default function bookshelf(){
                 </li>
                 <li>
                     Fooled by Randomness - NN Taleb
+                </li>
+                <li>
+                    Kafka on the shore - Haruki Murakami
                 </li>
                 <li>...will add more if I get time or remember any.</li>
             </ul>
