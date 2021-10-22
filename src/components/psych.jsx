@@ -82,7 +82,7 @@ function Psych() {
                     <p>Interesting neuroscientific and psychological take to deal with anger: <a href='https://thinkingbat.substack.com/p/tame-the-beast'>https://thinkingbat.substack.com/p/tame-the-beast</a></p>
                     <p>Studying Phineas Gage has been quite an important part of neurology and psychology. Here is a short video, explaining why his incident was so interesting and memorable. Apparently, there is also a  movie on him: <a href='https://youtu.be/vb8Jg1PAL90'>https://youtu.be/vb8Jg1PAL90</a></p>
                     <hr></hr>
-                    <h5>Could listening to lots of music in your teenage save you from drugs?</h5>
+                    <h5 id='music-essay'>Could listening to lots of music in your teenage save you from drugs?</h5>
                     <p>
                     Nature is chaos, music is audible order. The way our brain makes this into order is more complex and interesting than you could have possibly imagined. Whenever you listen to a song, your auditory cortex converts rhythms, melodies, and harmonies into a sensible piece. Then our reaction to the music depends upon how we interact with it. Singing it in your head, activates your premotor cortex, responsible for movements. Dance with it and your neurons will be in sync with the beats of the music. Pay attention to the lyrics and you'll activate your parietal cortex, which helps you maintain attention to different stimuli. Listening to a song that triggers personal memories? Your prefrontal cortex, which maintains personal life and relationships information, will spring into action. 
 <br/>
