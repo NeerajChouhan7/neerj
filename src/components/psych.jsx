@@ -85,7 +85,7 @@ The debate is regarding whether an individual's personality traits & abilities a
 The psychological traits and development of a human being are shaped by a balance of genetic influence and experience in life. Because there are too many facts on both of these extremes. It is widely accepted that both genes & environment do not act independently on an individual. But they interact with each other in a very complex manner in development.
 <br/>
 <br/>
-                         <hr/>                                                                                                                   - Neeraj
+                         <hr/>
                     <h5>Signaling</h5>
                     <p>A short fun video on Virtue Signalling on Social Media: <a href='https://youtu.be/ohm9C4u63qk'>https://youtu.be/ohm9C4u63qk</a></p>
                     <p>Sometimes Virtue Signalling can be a powerful tool, as a business or a personal brand: <a href='https://www.psychologicalscience.org/news/dont-be-afraid-to-virtue-signal-it-can-be-a-powerful-tool-to-change-peoples-minds.html'>https://www.psychologicalscience.org/news/dont-be-afraid-to-virtue-signal-it-can-be-a-powerful-tool-to-change-peoples-minds.html</a></p>
