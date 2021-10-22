@@ -75,6 +75,17 @@ function Psych() {
                     <p>Experiments that have happened in the past, but are unethical now. Some are really dark ones, including the famous Stanford Prison Experiment: <a href='https://youtu.be/zZ3l1jgmYrY'>https://youtu.be/zZ3l1jgmYrY</a></p>
                     <p>Why do we obey Authority? With Milgram's experiment in psychology,understand why we follow, respect, or obey dominance. And is it necessary to do or not: </p><a href='https://youtu.be/JXXbIF5Okjc'>https://youtu.be/JXXbIF5Okjc</a>
                     <hr/>
+        <h5>Nature vs Nurture</h5>
+        Let us establish what do nature and nurture mean in our context. Nature is how your genes affect your behavior & personality traits in your life. It is more on the biological aspect of life. Nurture can be called a product of your exposure, experience, and learnings. 
+<br/>
+<br/>
+The debate is regarding whether an individual's personality traits & abilities are in born or it comes through experience i.e. it is by nature or nurture. There are obvious sets of characteristics in an individual to divide into both of these. For example color of hair, eyes are hereditary in progeny. But if you are completely healthy then your communications skills are solely based on nurture.
+<br/>
+<br/>
+The psychological traits and development of a human being are shaped by a balance of genetic influence and experience in life. Because there are too many facts on both of these extremes. It is widely accepted that both genes & environment do not act independently on an individual. But they interact with each other in a very complex manner in development.
+<br/>
+<br/>
+                         <hr/>
                     <h5>Signaling</h5>
                     <p>A short fun video on Virtue Signalling on Social Media: <a href='https://youtu.be/ohm9C4u63qk'>https://youtu.be/ohm9C4u63qk</a></p>
                     <p>Sometimes Virtue Signalling can be a powerful tool, as a business or a personal brand: <a href='https://www.psychologicalscience.org/news/dont-be-afraid-to-virtue-signal-it-can-be-a-powerful-tool-to-change-peoples-minds.html'>https://www.psychologicalscience.org/news/dont-be-afraid-to-virtue-signal-it-can-be-a-powerful-tool-to-change-peoples-minds.html</a></p>
