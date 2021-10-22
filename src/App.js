@@ -17,7 +17,7 @@ import friends from './components/all_blogs/friends'
 import music from './components/all_blogs/music'
 import fear from './components/all_blogs/fear';
 import cinema from './components/all_blogs/cinema';
-
+import Psych from './components/psych';
 
 
 function App() {
@@ -42,6 +42,7 @@ function App() {
           <Route path='/essays' component={Blogs} />
           <Route path='/work' component={work} />
           <Route path='/about' component={About} />
+          <Route path='/psych-archives' component={Psych} />
         </Switch>
       </Router>
     </div>
