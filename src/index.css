@@ -57,7 +57,10 @@ li::selection,
 ul::selection,
 nav::selection,
 a:hover,
-a::selection {
+a::selection,
+br::selection,
+strong::selection,
+i::selection {
     background: #9191f747;
 }
 

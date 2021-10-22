@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 
 function Psych() {
-    var objects = [
+    var data = [
         {
             title: "Conditioning", 
             blurb: "Pavlov's conditioning experiment. This experiment played a huge role in understanding how learning happens as well as in the development of the school of behavioral psychology. Although it was discovered by accident, still it led to the discovery of classical conditioning.", 
@@ -24,13 +24,14 @@ function Psych() {
                 </ol>
             </nav>
             <div>
-                {objects.forEach((elem)=>{
-                    console.log(elem);
+                {data.forEach((element) => {
+                    console.log(element);
                     return(
                         <div>
-                            <h6 className='strong'><strong>{elem.title}</strong></h6>
-                            <p className='strong'>{elem.blurb}</p>
-                            <h6 className='strong'><a href={elem.link}></a>{elem.link}</h6>
+                            <h1>Neeraj</h1>
+                            <h6 className='strong'><strong>{element.title}</strong></h6>
+                            <p className='strong'>{element.blurb}</p>
+                            <h6 className='strong'><a href={element.link}></a>{element.link}</h6>
                         </div>
                     )
                 })}
