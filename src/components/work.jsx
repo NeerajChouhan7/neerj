@@ -23,7 +23,7 @@ function Work() {
             Writing newsletter on, about almost everything on <a href='https://neerajc.substack.com/'>Substack</a>.
            </li>
            <li>
-            Running a newsletter on psychology with ~300 members. If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> You can visit the archive <Link to='/psych-archive'>here</Link>
+            Running a newsletter on psychology with ~300 members. If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> You can visit the archive <Link to='/psych-archives'>here</Link>
            </li>
            <br/>
            <h6>Ex</h6>
