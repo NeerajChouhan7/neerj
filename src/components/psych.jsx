@@ -108,7 +108,7 @@ Author of This Is Your Brain on Music: The Science of a Human Obsession Daniel 
 Another reason why these memories stick with you, for the rest of your life is that you become *you*  in the period between ages of 12 to 22. They become an integral part of your sense of self. Firstly, some songs become attached to what we were feeling at that time. The music playing while your first love, achievement, friendship, etc. gets attached to that bad or beautiful memory. On the other hand, some songs become a memory in and of themselves. You may still remember the first time you heard that particular song. The eerieness you have to hear some songs for the first time again, right. I feel ya :)
 <br/>
 <br/>
-P.S. This is written by <a href='https://twitter.com/_neerajchouhan'>yours truly</a>, inspired by neural nostalgia by Mark Joseph Stern
+P.S. This is written by <a href='https://twitter.com/neervj'>yours truly</a>, inspired by neural nostalgia by Mark Joseph Stern
                     </p>
                     <br/>
                     <br/>
