@@ -12,7 +12,7 @@ export default function random(){
             </nav>
             <ul className='text-start align-start'>
                 <li>
-                    <h6><a target='_blank' href='https://twitter.com/_neerajchouhan'>Twitter</a></h6>
+                    <h6><a target='_blank' href='https://twitter.com/neervj'>Twitter</a></h6>
                 </li>
                 {/* <li>
                     <h6><a target='_blank' href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>Linkedin</a></h6>
