@@ -36,7 +36,7 @@ function Home() {
         <p>Some of things I have done/doing are <Link to='/work'>here</Link></p>
         {/* <p>Currently working at <a target='_blank' href='https://upraised.co'>Upraised</a></p> */}
         <p>I write with my 2 brain cells <Link to='/essays'>here</Link></p>
-        <p>and write without those cells <a target='_blank' href='https://twitter.com/_neerajchouhan'>here</a></p>
+        <p>and write without those cells <a target='_blank' href='https://twitter.com/neervj'>here</a></p>
 
 
 
@@ -45,7 +45,7 @@ function Home() {
                 <h1 id="typedtext">Hey 👋<span className='hide'>, How's it going?</span></h1>
             </div>
             <div className="col-4 img-div"> */}
-                {/* <a href='https://twitter.com/_neerajchouhan' target='_blank'><img  className='img' src='https://pbs.twimg.com/profile_images/1361225951678357504/54aQSGQs_400x400.jpg'/></a> */}
+                {/* <a href='https://twitter.com/neervj' target='_blank'><img  className='img' src='https://pbs.twimg.com/profile_images/1361225951678357504/54aQSGQs_400x400.jpg'/></a> */}
             {/* </div>
         </div>
             <p className='content p-5'>
