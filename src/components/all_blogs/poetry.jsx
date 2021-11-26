@@ -17,17 +17,17 @@ return(
                 <h6>1.</h6>
                 <br/>
                 <p>
-                I wish I was dead and cold,
-seeking validation from my demons
-tried, but could no more hold
-going down spiral my head uphold
-Then, maybe I could have embraced
-sleepless nights in my bed,
-love and hate, only in my head,
-uninterested talks with my friend.
-All went down in drain,
-when I lost to myself
-and my pain
+                I wish I was dead and cold,<br/>
+seeking validation from my demons<br/>
+tried, but could no more hold<br/>
+going down spiral my head uphold<br/>
+Then, maybe I could have embraced<br/>
+sleepless nights in my bed,<br/>
+love and hate, only in my head,<br/>
+uninterested talks with my friend.<br/>
+All went down in drain,<br/>
+when I lost to myself<br/>
+and my pain<br/>
 </p>
 <br/>
                 <br/>
@@ -35,51 +35,51 @@ and my pain
                 <br/>
                 <p>
                 Can't take back the love that I gave you,
-
+                <br/>
 Surely, it was me, not you.
-
+<br/>
 Staring in the abyss,
-
+<br/>
 not to find myself but you
-
+<br/>
 Came back from darkness,
-
+<br/>
 hoping for ecstacy to come and find me.
+<br/>
+Letting go could be an act of kindness,<br/>
 
-Letting go could be an act of kindness,
+maybe for you, but not for me. <br/>
 
-maybe for you, but not for me. 
+After, essence of life was lost,<br/>
 
-After, essence of life was lost,
+thought, I could find that myself.<br/>
 
-thought, I could find that myself.
-
-Turns out, essence was you
+Turns out, essence was you<br/>
 </p>
 <br/>
                 <br/>
                 <h6>3.</h6>
                 <br/>
                 Let me try,
-
+                <br/>
 don't stop, bind or catch me
-
+<br/>
 let me fly.
-
+<br/>
 Without any awareness, only ignorance
-
+<br/>
 you are binding me in invisible chain.
-
+<br/>
 Dare you do that to my playfulness,
-
+<br/>
 hoping for life to come and find me in my pain.
-
+<br/>
 Not leap of ignorance but of faith.
-
+<br/>
 Trust me, and I will try,
-
+<br/>
 not to disappoint you or make you cry
-
+<br/>
 But at least let me try
             </div>
     </div>
