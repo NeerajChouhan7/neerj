@@ -18,6 +18,10 @@ import music from './components/all_blogs/music'
 import fear from './components/all_blogs/fear';
 import cinema from './components/all_blogs/cinema';
 import Psych from './components/psych';
+import anxiety from './components/all_blogs/anxiety';
+import truth from './components/all_blogs/truth';
+import thinking from './components/all_blogs/thinking';
+import morality from './components/all_blogs/morality';
 
 
 function App() {
@@ -36,6 +40,10 @@ function App() {
           <Route path='/essays/friendships' component={friends} />
           <Route path='/essays/music' component={music} />
           <Route path='/essays/fear-and-freedom' component={fear} />
+          <Route path='/essays/anxiety' component={anxiety} />
+          <Route path='/essays/thinking-mold' component={thinking} />
+          <Route path='/essays/morality' component={morality} />
+          <Route path='/essays/truth' component={truth} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/random' component={random} />
           <Route path='/bookshelf' component={bookshelf} />

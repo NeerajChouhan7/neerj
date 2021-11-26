@@ -39,6 +39,18 @@ function Blogs(){
             <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/cinema'>Cinema & Pop Culture</Link>
             </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/anxiety'>On anxiety</Link>
+            </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/thinking-mold'>Thinking Mold</Link>
+            </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/morality'>Morality: Squid Game</Link>
+            </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/truth'>Truth and honoring commitments</Link>
+            </div>
             <div className='border-bottom border-light border-5'></div>
             <p className='mt-3'>Read them on <a href='https://neerajc.substack.com/'>Substack</a>. Yep, it's better than this. Don't forget to put up your email. Ciao :)</p>
         </div>
