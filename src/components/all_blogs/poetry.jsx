@@ -60,7 +60,7 @@ Turns out, essence was you<br/>
                 <br/>
                 <br/>
                 <h6>3.</h6>
-                
+                <p>
                 Let me try,
                 <br/>
 don't stop, bind or catch me
@@ -82,6 +82,7 @@ Trust me, and I will try,
 not to disappoint you or make you cry
 <br/>
 But at least let me try
+</p>
 <br/>
                 <br/>
                 <h6>4.</h6>
@@ -152,7 +153,6 @@ Remorse for seeking validation,
 not being with loved one, not following your passion.</p><br/>
                 <br/>
                 <h6>7.</h6>
-                <br/>
                 <p>
                 Gusse se bhara hai ye ateet mera, chahu magar bhul na pau.
                 <br/>
@@ -170,7 +170,6 @@ Khade to me or khuda the waha,
 par baat dono ka ahankaar raha hai.</p><br/>
                 <br/>
                 <h6>8.</h6>
-                <br/>
                 <p>
                 To not let go of the grudges that I hold to this day,
                 <br/>
@@ -185,7 +184,6 @@ To help them, console them or die with them,
 inserting bad moments, in the loopholes of happy ones.</p><br/>
                 <br/>
                 <h6>9.</h6>
-                <br/>
                 <p>
                 Most pretends to be friends, others got some already.
                 <br/>
@@ -207,7 +205,6 @@ If no one has, give it time, be patient.
                     </p><br/>
                 <br/>
                 <h6>10.</h6>
-                <br/>
                 <p>
                 Our eyes met.
                 <br/>
@@ -241,7 +238,6 @@ to her eyes i still cannot lie.
                     </p><br/>
                 <br/>
                 <h6>11.</h6>
-                <br/>
                 <p>
                 Would you never know that that was it? 
                 <br/>
@@ -294,7 +290,6 @@ make sure not of sand to avoid drizzle,
 as a team.</p><br/>
                 <br/>
                 <h6>12.</h6>
-                <br/>
                 <p>
                 with moving towards death,
                 <br/>
@@ -314,7 +309,7 @@ walking, talking, behavior, everything seems seperated by seasons.
                 </p>
                 <br/>
                 <h6>13.</h6>
-                <br/>
+                
                 <p>
                 I'm lying to myself that I can see,
                 <br/>
@@ -360,7 +355,6 @@ just to face my face and a stone colliding.
                 </p>
                 <br/>
                 <h6>14.</h6>
-                <br/>
                 <p>
                 Our eyes met.
                 <br/>
@@ -394,7 +388,6 @@ to her eyes i still cannot lie.
                 </p>
      <br/>           <br/>
                 <h6>15.</h6>
-                <br/>
                 <p>
                 Cant get it out of my head,
                 <br/>
@@ -408,7 +401,6 @@ and cant get it outta your head
                 </p>
                 <br/>
                 <h6>16.</h6>
-                <br/>
                 <p>
                 I want to break free,
                 <br/>
@@ -428,7 +420,6 @@ of limited often single possibilities,
                 </p>
                 <br/>
                 <h6>17.</h6>
-                <br/>
                 <p>
                 lord grant me courage,
                 <br/>
@@ -448,7 +439,6 @@ of death and life
                 </p>
                 <br/>
                 <h6>18</h6>
-                <br/>
                 <p>
                 common sense is not present,
                 <br/>
@@ -460,7 +450,6 @@ without little damage to the eyes.
                 </p>
                 <br/><br/><br/>
                 <h6>19.</h6>
-                <br/>
                 <p>
                 Mirrors on the wall
                 <br/>
@@ -507,6 +496,7 @@ into the mirror again.
                 <br/>
                 <br/>
                 <p id='thought'>
+                    <h6>YOU GOT THIS! :)))</h6><br/>
                 If we're going to die anyway and that too is not in our hands. Then why take it in our hands and do it too soon. Let's say, you sat on a bus that had the most beautiful things in the universe. Everything that you could have possibly imagined in heaven was there, but better. The most wonderful creations of the universe could be seen from that bus. You were not supposed to be on that bus. There was close to no chance that you would have gotten a chance to sit on that bus. But you got lucky. Somehow you did get the chance. Now you are sitting on that bus. You know that bus is going to stop at a certain point. The break is not even in your control. In the way, there were lots of speed breakers and tunnels. And whenever they went through each dark tunnel everyone was bit depressed. Some more, some less. Some people had someone, some did not. But everyone knew that at the end of tunnel was something magical. Something beautiful that they have not seen ever. Something that will make them forget about every dark tunnel they went through. While many thought that the dark tunnel will be there forever. That was a lie they told themself. Every dark tunnel's end was so beautiful. I cannot explain it in words. But some people decide to dropoff the bus in that tunnel. They left the dreams that could have been fulfilled, smiles of their loved ones that could be seen, moments with their friends where they had no sense of time. Their first kiss. Everything. They left all of this for the temporary darkness of a fake tunnel. You tell me is that worth the chance they got to sit on this bus?
                 </p>
             </div>
