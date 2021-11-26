@@ -10,7 +10,7 @@ return(
                     <li className="breadcrumb-item active" aria-current="page">Poetry</li>
                 </ol>
             </nav>
-            <div>
+            <div id='poetry'>
                 <p>lol idk why I shared this with you...</p>
                 <p>didn't named any of the poem cus ik the meanings are going to keep changing for me and you too :)</p>
                 <br/>
