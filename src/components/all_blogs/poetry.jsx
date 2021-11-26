@@ -16,7 +16,7 @@ return(
                 <br/>
                 <br/>
                 <h6>1.</h6>
-                <br/>
+                
                 <p>
                 I wish I was dead and cold,<br/>
 seeking validation from my demons<br/>
@@ -33,7 +33,7 @@ and my pain<br/>
 <br/>
                 <br/>
                 <h6>2.</h6>
-                <br/>
+                
                 <p>
                 Can't take back the love that I gave you,
                 <br/>
@@ -60,7 +60,7 @@ Turns out, essence was you<br/>
                 <br/>
                 <br/>
                 <h6>3.</h6>
-                <br/>
+                
                 Let me try,
                 <br/>
 don't stop, bind or catch me
@@ -85,7 +85,7 @@ But at least let me try
 <br/>
                 <br/>
                 <h6>4.</h6>
-                <br/>
+                
                 <p>
                 So for now, let's all enjoy this view,
 <br/>
@@ -100,7 +100,6 @@ treating your time not as worship
                 <br/>
                 <br/>
                 <h6>5.</h6>
-                <br/>
                 <p>
                 That corner of my mind, just to hide,
                 <br/>
@@ -129,7 +128,6 @@ kill it
                 <br/>
                 <br/>
                 <h6>6.</h6>
-                <br/>
                 <p>
                 Applaud my friends,
                 <br/>
@@ -505,6 +503,11 @@ but, nah — i couldn't be that again,
 even if i tried. That fearlessness to look back
 <br/>
 into the mirror again.
+                </p>
+                <br/>
+                <br/>
+                <p id='thought'>
+                If we're going to die anyway and that too is not in our hands. Then why take it in our hands and do it too soon. Let's say, you sat on a bus that had the most beautiful things in the universe. Everything that you could have possibly imagined in heaven was there, but better. The most wonderful creations of the universe could be seen from that bus. You were not supposed to be on that bus. There was close to no chance that you would have gotten a chance to sit on that bus. But you got lucky. Somehow you did get the chance. Now you are sitting on that bus. You know that bus is going to stop at a certain point. The break is not even in your control. In the way, there were lots of speed breakers and tunnels. And whenever they went through each dark tunnel everyone was bit depressed. Some more, some less. Some people had someone, some did not. But everyone knew that at the end of tunnel was something magical. Something beautiful that they have not seen ever. Something that will make them forget about every dark tunnel they went through. While many thought that the dark tunnel will be there forever. That was a lie they told themself. Every dark tunnel's end was so beautiful. I cannot explain it in words. But some people decide to dropoff the bus in that tunnel. They left the dreams that could have been fulfilled, smiles of their loved ones that could be seen, moments with their friends where they had no sense of time. Their first kiss. Everything. They left all of this for the temporary darkness of a fake tunnel. You tell me is that worth the chance they got to sit on this bus?
                 </p>
             </div>
     </div>
