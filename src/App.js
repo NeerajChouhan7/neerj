@@ -22,6 +22,8 @@ import anxiety from './components/all_blogs/anxiety';
 import truth from './components/all_blogs/truth';
 import thinking from './components/all_blogs/thinking';
 import morality from './components/all_blogs/morality';
+import poetry from './components/all_blogs/poetry';
+
 
 
 function App() {
@@ -45,6 +47,7 @@ function App() {
           <Route path='/essays/morality' component={morality} />
           <Route path='/essays/truth' component={truth} />
           <Route path='/fiction/freedom' component={freedom} />
+          <Route path='/dead-poet-society' component={poetry} />
           <Route path='/random' component={random} />
           <Route path='/bookshelf' component={bookshelf} />
           <Route path='/essays' component={Blogs} />
