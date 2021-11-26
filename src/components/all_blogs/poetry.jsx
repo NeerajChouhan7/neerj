@@ -16,6 +16,7 @@ return(
                 <br/>
                 <h6>1.</h6>
                 <br/>
+                <p>
                 I wish I was dead and cold,
 seeking validation from my demons
 tried, but could no more hold
@@ -27,10 +28,12 @@ uninterested talks with my friend.
 All went down in drain,
 when I lost to myself
 and my pain
+</p>
 <br/>
                 <br/>
                 <h6>2.</h6>
                 <br/>
+                <p>
                 Can't take back the love that I gave you,
 
 Surely, it was me, not you.
@@ -52,6 +55,7 @@ After, essence of life was lost,
 thought, I could find that myself.
 
 Turns out, essence was you
+</p>
 <br/>
                 <br/>
                 <h6>3.</h6>
