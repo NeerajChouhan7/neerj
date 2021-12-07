@@ -500,6 +500,8 @@ into the mirror again.
                 <p >
                 If we're going to die anyway and that too is not in our hands. Then why take it in our hands and do it too soon. Let's say, you sat on a bus that had the most beautiful things in the universe. Everything that you could have possibly imagined in heaven was there, but better. The most wonderful creations of the universe could be seen from that bus. You were not supposed to be on that bus. There was close to no chance that you would have gotten a chance to sit on that bus. But you got lucky. Somehow you did get the chance. Now you are sitting on that bus. You know that bus is going to stop at a certain point. The break is not even in your control. In the way, there were lots of speed breakers and tunnels. And whenever they went through each dark tunnel everyone was bit depressed. Some more, some less. Some people had someone, some did not. But everyone knew that at the end of tunnel was something magical. Something beautiful that they have not seen ever. Something that will make them forget about every dark tunnel they went through. While many thought that the dark tunnel will be there forever. That was a lie they told themself. Every dark tunnel's end was so beautiful. I cannot explain it in words. But some people decide to dropoff the bus in that tunnel. They left the dreams that could have been fulfilled, smiles of their loved ones that could be seen, moments with their friends where they had no sense of time. Their first kiss. Everything. They left all of this for the temporary darkness of a fake tunnel. You tell me is that worth the chance they got to sit on this bus?
                 </p>
+    <br/>
+    - yours truly.
             </div>
     </div>
 )
