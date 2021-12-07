@@ -502,6 +502,7 @@ into the mirror again.
                 </p>
     <br/>
     - yours truly.
+    <br/>
             </div>
     </div>
 )
