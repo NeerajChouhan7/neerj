@@ -93,6 +93,7 @@ The psychological traits and development of a human being are shaped by a balanc
                     <p>Interesting neuroscientific and psychological take to deal with anger: <a href='https://thinkingbat.substack.com/p/tame-the-beast'>https://thinkingbat.substack.com/p/tame-the-beast</a></p>
                     <p>Studying Phineas Gage has been quite an important part of neurology and psychology. Here is a short video, explaining why his incident was so interesting and memorable. Apparently, there is also a  movie on him: <a href='https://youtu.be/vb8Jg1PAL90'>https://youtu.be/vb8Jg1PAL90</a></p>
                     <hr></hr>
+                    <h5>Cero Season 1 & 2</h5>
                     <p>
                     I can bet you with anything, there has been no better content than this by an Indian creator.
                     </p>
