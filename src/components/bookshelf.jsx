@@ -19,7 +19,7 @@ export default function bookshelf(){
                     Shantaram - Gregory David Roberts
                 </li>
                 <li>
-                    Art of War - Lao Tzu
+                    The Eagle has landed - Jack Higgins
                 </li>
             </ul>
             <h6>Books</h6>

@@ -64,7 +64,8 @@ a:hover,
 a::selection,
 br::selection,
 strong::selection,
-i::selection {
+i::selection,
+img::selection {
     background: #9191f747;
 }
 
