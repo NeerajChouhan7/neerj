@@ -24,7 +24,7 @@ function Psych() {
                 </ol>
             </nav>
             <div>
-                <p>This is the archive of the whatsapp newsletter on psychology called Psych, running by yours truly. Click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> to be part of it. </p>
+                <p>This is the archive of the whatsapp newsletter, I run, on psychology called Psych. Click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> to be part of it. </p>
                 <div>
                     <h5>Conditioning</h5>
                     <p>
@@ -92,6 +92,24 @@ The psychological traits and development of a human being are shaped by a balanc
                     <p>Very interesting read on signals, and countersignals: <a href='https://www.robkhenderson.com/past-newsletter/countersignals'>https://www.robkhenderson.com/past-newsletter/countersignals</a></p>
                     <p>Interesting neuroscientific and psychological take to deal with anger: <a href='https://thinkingbat.substack.com/p/tame-the-beast'>https://thinkingbat.substack.com/p/tame-the-beast</a></p>
                     <p>Studying Phineas Gage has been quite an important part of neurology and psychology. Here is a short video, explaining why his incident was so interesting and memorable. Apparently, there is also a  movie on him: <a href='https://youtu.be/vb8Jg1PAL90'>https://youtu.be/vb8Jg1PAL90</a></p>
+                    <hr></hr>
+                    <p>
+                    I can bet you with anything, there has been no better content than this by an Indian creator.
+                    </p>
+                    <p>
+                        There are two season of it. First one is discontinous series of episodes ranging from quantum suicide to sprituality to Instagram and why you should learn to code, immediately!
+                        Second season of it is a two episode series with a prologue and what he calls is scientifical existential therapy. It is bit auto-biographical but I bet can you won't be able to stop before finishing it once you start listening.
+                    </p>
+                    <p><a href='https://www.youtube.com/watch?v=i3dDWdaXiUg'>Cero 1</a></p>
+                    <p><a href='https://open.spotify.com/show/0oXQacWACc5lVBWWJYQO8Z?si=611eb5da52874580'>Cero 2</a></p>
+                    
+
+                    <hr></hr>
+                    
+                    <h5>Evolutionary Psychology and Management</h5>
+                    <p>
+                        This is a short YouTube playlist by Varun Mayya, host of Cero, which takes over management skills from the point of view of evolutionary psychology. <a href='https://www.youtube.com/playlist?list=PL5DRb6AX7P4hlM_I0fqWLRs-jbWbEcK_x'>https://www.youtube.com/playlist?list=PL5DRb6AX7P4hlM_I0fqWLRs-jbWbEcK_x</a>
+                    </p>
                     <hr></hr>
                     <h5 id='music-essay'>Could listening to lots of music in your teenage save you from drugs?</h5>
                     <br/>
