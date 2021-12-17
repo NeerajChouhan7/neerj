@@ -12,21 +12,22 @@ function Work() {
                 </ol>
             </nav>
             
-           <h6>Currently...</h6>
+           <h6>Do</h6>
            <li>
-             Wrote a research paper on Augmented Reality(AR) in Education. <a href='https://drive.google.com/file/d/1Dd4GnqjlP_PW39I23CVbKbgPTG4alB0i/view?usp=sharing' target='_blank' style={{borderRadius:'2px'}}><img class='link-img' src="https://img.icons8.com/ios-glyphs/30/000000/external-link.png"/></a> 
+             Having fun buidling Defi at <a target='_blank' href='https://market.xyz'>Market</a>
            </li>
            <li>
-             Exploring <span className='highlight'>blockchain</span> and Defi. Writing on it too. Also, working on a side project: <em className='i'>Study</em>
+            Writing newsletter on, about almost everything called <a href='https://neerajc.substack.com/'>Thinking Mold</a>.
            </li>
            <li>
-            Writing newsletter on, about almost everything on <a href='https://neerajc.substack.com/'>Substack</a>.
-           </li>
-           <li>
-            Running a newsletter on psychology with ~300 members. If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> You can visit the archive <Link to='/psych-archives'>here</Link>
+            Running a newsletter on psychology with ~300 members. <br/>
+            If you want to be part of it, click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> You can visit the archive <Link to='/psych-archives'>here</Link>
            </li>
            <br/>
-           <h6>Ex</h6>
+           <h6>Did</h6>
+           <li>
+            Wrote a research paper on Augmented Reality(AR) in Education. <a href='https://drive.google.com/file/d/1Dd4GnqjlP_PW39I23CVbKbgPTG4alB0i/view?usp=sharing' target='_blank' style={{borderRadius:'2px'}}><img class='link-img' src="https://img.icons8.com/ios-glyphs/30/000000/external-link.png"/></a> 
+           </li>
            <li>
              Product Management Intern at <a href='https://upraised.co/'>Upraised</a>
            </li>
