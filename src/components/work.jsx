@@ -28,13 +28,13 @@ function Work() {
             Wrote a research paper on Augmented Reality(AR) in Education. <a href='https://drive.google.com/file/d/1Dd4GnqjlP_PW39I23CVbKbgPTG4alB0i/view?usp=sharing' target='_blank' style={{borderRadius:'2px'}}><img class='link-img' src="https://img.icons8.com/ios-glyphs/30/000000/external-link.png"/></a> 
            </li>
            <li>
-             Product Management Intern at <a href='https://upraised.co/'>Upraised</a> (~10 months)
+             Product Management Intern at <a href='https://upraised.co/'>Upraised</a> 
            </li>
            <li>
-             Front-end dev at <a href='https://www.revoteen.com/'>Revoteen</a> (~4 months)
+             Front-end dev at <a href='https://www.revoteen.com/'>Revoteen</a> 
            </li>
            <li>
-            Built several projects as a freelancer like chrome extension for Amazon sellers, E-commerce store to sell ppe-kits etc.
+            Built several projects as a freelancer like chrome extension for Amazon sellers, E-commerce store to sell ppe-kits etc. etc.
            </li>           
            <br/>
            <br/><br/>
