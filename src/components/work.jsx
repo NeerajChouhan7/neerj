@@ -17,7 +17,7 @@ function Work() {
              Having fun buidling Defi at <a target='_blank' href='https://market.xyz'>Market</a>
            </li>
            <li>
-            Writing newsletter on, about almost everything called <a href='https://neerajc.substack.com/'>Thinking Mold</a>.
+            Writing newsletter, about almost everything, called <a href='https://neerajc.substack.com/'>Thinking Mold</a>.
            </li>
            <li>
             Running a newsletter on psychology with ~300 members. Click <a href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> to join. You can visit the archives <Link to='/psych-archives'>here</Link> 
