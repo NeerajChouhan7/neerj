@@ -28,7 +28,7 @@ function Work() {
             Wrote a research paper on Augmented Reality(AR) in Education. <a href='https://drive.google.com/file/d/1Dd4GnqjlP_PW39I23CVbKbgPTG4alB0i/view?usp=sharing' target='_blank' style={{borderRadius:'2px'}}><img class='link-img' src="https://img.icons8.com/ios-glyphs/30/000000/external-link.png"/></a> 
            </li>
            <li>
-             Product Management Intern at <a href='https://upraised.co/'>Upraised</a> 
+             Product Management Intern at <a href='https://upraised.co/'>Upraised</a> (10 months)
            </li>
            <li>
              Front-end dev at <a href='https://www.revoteen.com/'>Revoteen</a> 
