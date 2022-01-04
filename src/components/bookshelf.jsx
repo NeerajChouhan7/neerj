@@ -19,7 +19,7 @@ export default function bookshelf(){
                     Shantaram - Gregory David Roberts
                 </li>
                 <li>
-                    The Eagle has landed - Jack Higgins
+                Debt: The first 5000 years - David Graeber
                 </li>
             </ul>
             <h6>Books</h6>
@@ -106,6 +106,13 @@ export default function bookshelf(){
             </ul>
             <h6>To Read...</h6>
             <ul>
+                <li>
+
+            The Eagle has landed - Jack Higgins
+                </li>
+                <li>
+                    12 Years A Slave
+                </li>
                
                 <li>Juilius Caesar</li>
                 <li>Corporate Chanakya</li>
