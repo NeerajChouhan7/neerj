@@ -88,7 +88,7 @@ A total of 5% of the SLND total supply were set aside for the IDO: 4% for the ID
 <br /><br />
 All proceeds from the IDO are going to the Solend Treasury. Which is owned and governed by the Solend DAO via SLND tokens. The treasury funds will be used for various purposes. Insurance, grants, and user acquisition are some of them. It also diversifies the Solend Treasury, making it more resilient to uncertain events.
 <br /><br />
-<h5>Programs in Solen</h5>
+<h5>Programs in Solend</h5>
 <br /><br />
 There are several programs in the Solend ecosystem. Let's explore them one by one:
 <br /><br />
