@@ -51,9 +51,15 @@ function Blogs(){
             <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/truth'>Truth and honoring commitments</Link>
             </div>
-            <h5>Blockchain Deep Dives</h5>
             <div className='essay-btn'>
-                <Link className='essay-link' to='/essays/timeswap'>Deep Dive: Timeswap</Link>
+                <Link className='essay-link' to='/essays/solend'>Deep Dive: Solend [Blockchain]</Link>
+            </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/timeswap'>Deep Dive: Timeswap [Blockchain]</Link>
+            </div>
+
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/Biconomy'>Deep Dive: Biconomy [Blockchain]</Link>
             </div>
             <div className='border-bottom border-light border-5'></div>
             <p className='mt-3'>Read them on <a target='_blank' href='https://neerajc.substack.com/'>Substack</a>. Yep, it's better than this. Don't forget to put up your email. Ciao :)</p>
