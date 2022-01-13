@@ -16,8 +16,8 @@ function solend(){
                     <h1 className='heading strong bold'>Deep Dive: Solend</h1>
                 </span>
                 <p>
-                <h5>Introduction</h5>
 <br /><br />
+                <h5>Introduction</h5>
 Let's begin from somewhere you never expected us to...2017.
 <br /><br />
 Rooter, the founder of Solend, read the Compound whitepaper. Unlike me, who did not understand it on the first read. He got super excited about it. 
