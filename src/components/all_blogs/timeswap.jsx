@@ -17,11 +17,7 @@ function timeswap(){
                 <p>
                 World of web3 and especially Defi is constantly evolving and moving. 1 day here feels like 1 month. Taking a two-week vacation means missing out on 15 airdrops, 7 NFT collections, and 3 Defi protocols with dope, new technology.
                 <br /><br />
-If you are completely new to the world of web3, start here.
-<br /><br />
-If you are completely new to Defi, start here or check out the first half of this article.
-<br /><br />
-If you have a decent idea of Defi and protocols, we can get started my fren!
+If you are completely new to the world of web3, start with <a target='_blank' href='https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit'>this document</a>.
 <br /><br />
 Before getting into the introduction, let’s have a quick look at the background of the protocol and understand why was even there a need for Timeswap?
 
