@@ -39,15 +39,12 @@ But what the heck do they do? Solend is a decentralized protocol for lending and
 </li>
 <li>Shorting </li>
 </ul>
-
-<br /><br />
 In Defi protocols too, these terms hold the same meaning as in the conventional sense. You can leverage long or short assets in any Defi protocol. The only difference would be in borrowing. Since the only identity on the blockchain is a string of alphabetic codes, you can't borrow on credit. In other words, Defi borrowing is usually completely collateralized. 
 <br /><br />
 Solend is the biggest Defi lending-borrowing protocol on Solana. As of this writing, with a TVL of $800 million. Let me take you through their product:
 <br /><br />
 <h5>Product walkthrough</h5>
 
-<br /><br />
 The first step is obviously, the holy signature of the web3 wallet. After you connect your wallet (only Solana supporting wallets), you will have to deposit the funds into it. Then approve your transaction in your wallet (otherwise ngmi).
 <br /><br />
 
@@ -71,14 +68,12 @@ Liquidation threshold is the maximum value of your borrow balance before your ac
 Similarly, repaying and withdrawing is done by clicking on the table and it will take you to the wallet. Which is followed by quite an intuitive process similar to borrowing one.
 <br /><br />
 <h6>Network effects</h6>
-<br /><br />
 Solend contributes to the protocol network effect as a Defi primitive. By which all protocols on Solana become better.
 <br /><br />
 Suddenly, the tokens integrated into Solana are more useful. They can be used to earn interest or as collateral for a loan. Similarly, liquidity provider or LP tokens, which are tokens issued to liquidity providers, will unlock a huge amount of collateral. This will also enable users to go leverage long with recursive borrows. Meaning, on a large gain users will be able to borrow numerous times on the same asset. They can short another token too.
 <br /><br />
 <h6>Fundraise and Tokenomics</h6>
 
-<br /><br />
 In October, Solend raised $6.5M from investors like Coinbase Ventures, Solana Ventures, Balaji Srinivasan.
 <br /><br />
 There are 100M SLND tokens. SLND’s distribution is as follows:
@@ -87,7 +82,6 @@ There are 100M SLND tokens. SLND’s distribution is as follows:
 60% of SLND is allocated to the community. Breaking it down, half of that is allocated for the liquidity mining program. The other half is allocated to the Solend Treasury, owned and governed by the Solend DAO. 25% to the core team and 15% to investors. 5% of SLND is allocated to the IDO, coming from the treasury. The Solend Treasury will own the IDO funds and LP position (details in IDO section.)  Only 10% was distributed in the seed round, but an additional 5% is set aside for a potential future raise in case it’s needed.
 <br /><br />
 <h6>IDO</h6>
-<br /><br />
 Initial Dex Offering (IDO) is a new type of decentralized and permissionless crowdfunding platform. A project launches their coins or token via a decentralized liquidity exchange if they are launching an IDO.
 <br /><br />
 A total of 5% of the SLND total supply were set aside for the IDO: 4% for the IDO itself and 1% for LP SLND-USDC after the IDO had ended. (A quarter of the IDO proceeds were used to LP.)
@@ -99,7 +93,6 @@ All proceeds from the IDO are going to the Solend Treasury. Which is owned and g
 There are several programs in the Solend ecosystem. Let's explore them one by one:
 <br /><br />
 <h6>Liquidity Mining</h6>
-<br /><br />
 Currently, there are 100M SLND tokens in total. Out of which, 60% are reserved for the community. Half of that is set aside for distribution to the community via liquidity mining over 3 years. Now, you might say what is liquidity mining? For that first understand what liquidity pool is:
 <br /><br />
 Liquidity pools are collections of funds locked digitally in a smart contract. People supply the tokens they hold in liquidity pools. All the providers of tokens are called liquidity providers. When they deposit their tokens, they receive liquidity provider tokens, also called LP Token.
@@ -116,7 +109,6 @@ Solend has recently upgraded its liquidity mining program. Calling it the 2.0 ve
 This will grow the Solend treasury (insurance fund) when options are exercised. It also aligns incentives with farmers since they gain less from farming and dumping.
 <br /><br />
 <h6>Bug bounty programs</h6>
-<br /><br />
 If money is present, the risk is inevitable. That risk increases more when borrowing is involved.
 <br /><br />
 Defi protocols have to achieve what banks had done with just...code. Which is also at the end of the day written by humans. There will obviously be mistakes and bugs. Therefore each Defi protocol has insurance funds and bug bounty programs.
@@ -128,7 +120,6 @@ It focuses on preventing thefts and freezing of funds. There are many ways hacke
 The reward for the bounty depends upon the severity of the bug. The rewards range from $5000 to $1,000,000 USD in either USDC or SOL.
 <br /><br />
 <h6>Insurance funds</h6>
-<br /><br />
 Insurance funds ensure that users will be refunded in case there's a bug or issue with the platform. It builds trust in the community and each user about the protocol.
 <br /><br />
 There are many risks in a lending protocol. Smart contract risk, liquidation risk, market risk, etc. Even every asset listed exposes Solend to more risk. The biggest risk for any Defi protocol is a hack. While protocols like Aave and Compound have not been through such exploits. It is one of the biggest risks in running a Defi protocol. Currently, Solend has a $26M insurance fund. Protocol fees, as well as Liquidity Mining 2.0, will help in growing that further.
@@ -138,7 +129,6 @@ Solend says:
 Solend takes risk extremely seriously and does extensive diligence on each asset that’s listed, also tuning risk parameters accordingly. Unfortunately, no amount of diligence can completely mitigate all risks, which is why it’s important to build up a sizable insurance fund.
 <br /><br />
 <h6>Comparison with AAVE and Compound</h6>
-<br /><br />
 Defi was a novel idea when Aave and Compound came into existence. Those two projects came up at a time when asset prices were persisting through the bear market. Following the initial coin offering boom and the regulatory crackdown that followed.
 <br /><br />
 Aave, previously known as EthLend, is another money market and currently the largest Defi protocol on Ethereum. It first broke $60M in May 2020, five months into its existence. But several years into the operation of the company behind it.
@@ -146,7 +136,6 @@ Aave, previously known as EthLend, is another money market and currently the lar
 In September 2021, Solend did $100 million in deposits without liquidity mining opportunities. It took Compound and Aave longer to hit similar levels. The oldest record for Compound on Defi Pulse shows it at $93,000 in total value locked (TVL) as of Sept. 2018 It didn’t break $60M until seven months later.
 <br /><br />
 <h6>Community</h6>
-<br /><br />
 Solend community is in its early days, even from the web3 perspective. Due to the protocol's rapid growth in such a short period of time, it has attracted a lot of Defi enthusiasts. They are yet to cut wheat from the chaff. In other words, they are yet to get rid of “moonboys” who are there for quick bucks and be left with long-term people. Which is going to happen automatically with time. Right now, they have more than 11,000 members. Which is huge! Contradicting my opinion about the community still being in early days but we will come to that. The way it is built is pretty neat.
 <br /><br />
 All channels are quite self-explanatory and like any other Defi community. Here are some things about interesting ones:
@@ -168,7 +157,6 @@ With abundant communities and scarce quality engagement, the Solend community fe
 Anyways, just like every other crypto community, everyone is super helpful and considerate on the server. Big-time WAGMI vibe!
 <br /><br />
 <h6>Conclusion</h6>
-<br /><br />
 For the future, Solend has promising plans like adding governance in early 2022, listing more assets, and isolated pools. All of their near-future plans revolve around making the protocol better for liquidity providers and users. There isn’t anything for the community. Which I believe, they think would be achieved automatically by making the protocol better.
 <br /><br />
 Solana's cheap transaction fees and high throughput make it a preferred destination for Defi. Solend will most likely benefit as an early mover and leader in the Solana ecosystem. 
