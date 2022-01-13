@@ -16,7 +16,10 @@ export default function bookshelf(){
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
-                    Shantaram - Gregory David Roberts
+                    Shantaram - Gregory David Roberts (300 pages in, finding will to pick it up again)
+                </li>
+                <li>
+                    Atlas Shrugged - Ayn Rand
                 </li>
                 <li>
                 Debt: The first 5000 years - David Graeber

@@ -23,6 +23,7 @@ import truth from './components/all_blogs/truth';
 import thinking from './components/all_blogs/thinking';
 import morality from './components/all_blogs/morality';
 import poetry from './components/all_blogs/poetry';
+import timeswap from './components/all_blogs/timeswap';
 
 
 
@@ -46,6 +47,7 @@ function App() {
           <Route path='/essays/thinking-mold' component={thinking} />
           <Route path='/essays/morality' component={morality} />
           <Route path='/essays/truth' component={truth} />
+          <Route path='/essays/timeswap' component={timeswap} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/dead-poet-society' component={poetry} />
           <Route path='/random' component={random} />
