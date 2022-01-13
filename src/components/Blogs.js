@@ -62,7 +62,7 @@ function Blogs(){
                 <Link className='essay-link' to='/essays/Biconomy'>Deep Dive: Biconomy [Blockchain]</Link>
             </div>
             <div className='border-bottom border-light border-5'></div>
-            <p className='mt-3'>Read them on <a target='_blank' href='https://neerajc.substack.com/'>Substack</a>. Yep, it's better than this. Don't forget to put up your email. Ciao :)</p>
+            <p className='mt-3'>Read 'em on <a target='_blank' href='https://neerajc.substack.com/'>Substack</a>.</p>
         </div>
     )
 }

@@ -24,6 +24,8 @@ import thinking from './components/all_blogs/thinking';
 import morality from './components/all_blogs/morality';
 import poetry from './components/all_blogs/poetry';
 import timeswap from './components/all_blogs/timeswap';
+import solend from './components/all_blogs/solend';
+import biconomy from './components/all_blogs/Biconomy';
 
 
 
@@ -47,7 +49,10 @@ function App() {
           <Route path='/essays/thinking-mold' component={thinking} />
           <Route path='/essays/morality' component={morality} />
           <Route path='/essays/truth' component={truth} />
+          {/* <Route path='/essays/write' component={write} /> */}
           <Route path='/essays/timeswap' component={timeswap} />
+          <Route path='/essays/timeswap' component={solend} />
+          <Route path='/essays/timeswap' component={biconomy} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/dead-poet-society' component={poetry} />
           <Route path='/random' component={random} />
