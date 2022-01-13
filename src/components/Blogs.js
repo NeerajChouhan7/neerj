@@ -52,14 +52,17 @@ function Blogs(){
                 <Link className='essay-link' to='/essays/truth'>Truth and honoring commitments</Link>
             </div>
             <div className='essay-btn'>
-                <Link className='essay-link' to='/essays/solend'>Deep Dive: Solend [Blockchain]</Link>
+                <Link className='essay-link' to='/essays/write'>Why do I write?</Link>
             </div>
             <div className='essay-btn'>
-                <Link className='essay-link' to='/essays/timeswap'>Deep Dive: Timeswap [Blockchain]</Link>
+                <Link className='essay-link' to='/essays/solend'>Blockchain Deep Dive: Solend </Link>
+            </div>
+            <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/timeswap'>Blockchain Deep Dive: Timeswap</Link>
             </div>
 
             <div className='essay-btn'>
-                <Link className='essay-link' to='/essays/Biconomy'>Deep Dive: Biconomy [Blockchain]</Link>
+                <Link className='essay-link' to='/essays/biconomy'>Blockchain Deep Dive: Biconomy </Link>
             </div>
             <div className='border-bottom border-light border-5'></div>
             <p className='mt-3'>Read 'em on <a target='_blank' href='https://neerajc.substack.com/'>Substack</a>.</p>

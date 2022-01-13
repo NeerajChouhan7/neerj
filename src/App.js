@@ -51,8 +51,8 @@ function App() {
           <Route path='/essays/truth' component={truth} />
           {/* <Route path='/essays/write' component={write} /> */}
           <Route path='/essays/timeswap' component={timeswap} />
-          <Route path='/essays/timeswap' component={solend} />
-          <Route path='/essays/timeswap' component={biconomy} />
+          <Route path='/essays/solend' component={solend} />
+          <Route path='/essays/biconomy' component={biconomy} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/dead-poet-society' component={poetry} />
           <Route path='/random' component={random} />
