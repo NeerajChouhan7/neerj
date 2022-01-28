@@ -26,8 +26,9 @@ import morality from './components/all_blogs/morality';
 import poetry from './components/all_blogs/poetry';
 import timeswap from './components/all_blogs/timeswap';
 import solend from './components/all_blogs/solend';
-import biconomy from './components/all_blogs/biconomy';
+import bico from './components/all_blogs/biconomy';
 import write from './components/all_blogs/write';
+
 
 
 
@@ -55,7 +56,7 @@ function App() {
           <Route path='/essays/identity' component={identity} />
           <Route path='/essays/timeswap' component={timeswap} />
           <Route path='/essays/solend' component={solend} />
-          <Route path='/essays/biconomy' component={biconomy} />
+          <Route path='/essays/biconomy' component={bico} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/dead-poet-society' component={poetry} />
           <Route path='/random' component={random} />

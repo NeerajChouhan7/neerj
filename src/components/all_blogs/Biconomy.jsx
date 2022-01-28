@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function biconomy(){
+function bico(){
     return (
         <div className='container mx-auto text-start mt-5'>
             <nav aria-label="breadcrumb">
@@ -243,4 +243,4 @@ Super excited to see Biconomy making dApps accessible to everyone with their und
     )
 }
 
-export default biconomy;
+export default bico;
