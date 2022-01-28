@@ -20,6 +20,7 @@ import cinema from './components/all_blogs/cinema';
 import Psych from './components/psych';
 import anxiety from './components/all_blogs/anxiety';
 import truth from './components/all_blogs/truth';
+import identity from './components/all_blogs/identity';
 import thinking from './components/all_blogs/thinking';
 import morality from './components/all_blogs/morality';
 import poetry from './components/all_blogs/poetry';
@@ -27,7 +28,6 @@ import timeswap from './components/all_blogs/timeswap';
 import solend from './components/all_blogs/solend';
 import biconomy from './components/all_blogs/biconomy';
 import write from './components/all_blogs/write';
-import identity from './components/all_blogs/identity';
 
 
 
