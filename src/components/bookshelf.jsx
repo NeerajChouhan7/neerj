@@ -24,6 +24,9 @@ export default function bookshelf(){
                 <li>
                 Debt: The first 5000 years - David Graeber
                 </li>
+                <li>
+                Call Me By Your Name - André Aciman
+                </li>
             </ul>
             <h6>Books</h6>
             <ul>
@@ -48,6 +51,7 @@ export default function bookshelf(){
                 <li>Poor Economics - Esther Duflo & Abhijit Banarjee</li>
                 <li className='highlight'>Fault in our stars - John Green</li>
                 <li>Looking for Alaska - John Green</li>
+                <li>Turtles all the way down - John Green</li>
                 <li>The Slap - Christos Tsiolkas</li>
                 <li>Zero to One - Peter Thiel</li>
                 <li>Monk who sold his Ferrari - Robin Sharma</li>
