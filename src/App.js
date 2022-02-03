@@ -27,7 +27,7 @@ import poetry from './components/all_blogs/poetry';
 import timeswap from './components/all_blogs/timeswap';
 import solend from './components/all_blogs/solend';
 import write from './components/all_blogs/write';
-import biconomy from './components/all_blogs/biconomy';
+import biconomy from './components/all_blogs/fiction/biconomy';
 
 
 
