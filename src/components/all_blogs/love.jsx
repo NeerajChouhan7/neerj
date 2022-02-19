@@ -56,15 +56,17 @@ Love, live, and let live.
 <br/>
 Ciao.
 <br /><br/>
-
+<div>
+    <img style={{width: '100%', height: '350px'}} src='https://cdn.substack.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa303e1d5-a84f-4dab-80ad-de5d1dd1edf1_5639x1334.png' />
+</div>
 </p>            
 <br />
 <br />
 <br/>
             <p style={{color : "rgba(204, 238, 253, 0.884)"}}>Feb 2022</p>
         </div>
-<img style={{width: '100%', height: '350px'}} src='https://cdn.substack.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa303e1d5-a84f-4dab-80ad-de5d1dd1edf1_5639x1334.png' />
         </div>
+      
     )
 }
  
