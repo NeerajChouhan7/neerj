@@ -29,6 +29,7 @@ import solend from './components/all_blogs/solend';
 import write from './components/all_blogs/write';
 import biconomy from './components/all_blogs/fiction/biconomy';
 import hubble from './components/all_blogs/hubble';
+import love from './components/all_blogs/love';
 
 
 
@@ -55,6 +56,7 @@ function App() {
           <Route path='/essays/truth' component={truth} />
           <Route path='/essays/write' component={write} />
           <Route path='/essays/identity' component={identity} />
+          <Route path='/essays/love' component={love} />
           <Route path='/essays/timeswap' component={timeswap} />
           <Route path='/essays/solend' component={solend} />
           <Route path='/essays/biconomy' component={biconomy} />
