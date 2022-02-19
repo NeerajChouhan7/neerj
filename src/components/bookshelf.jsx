@@ -24,9 +24,7 @@ export default function bookshelf(){
                 <li>
                 Debt: The first 5000 years - David Graeber
                 </li>
-                <li>
-                Call Me By Your Name - André Aciman
-                </li>
+                
             </ul>
             <h6>Books</h6>
             <ul>
@@ -45,6 +43,9 @@ export default function bookshelf(){
                 <li className='highlight'>The Hitchhiker's Guide to Galaxy - Douglas Adams</li>
                 <li>Life's amazing secrets - Gaur Gopal Das</li>
                 <li>Autobiography of Ben Franklin</li>
+                <li>
+                Call Me By Your Name - André Aciman
+                </li>
                 <li className='highlight'>Metamorphosis - Franz Kafka</li>
                 <li>Immortal talks 1 - Shunya</li>
                 <li>That will <em className='i'>never</em> work - Marc Randolph</li>

@@ -28,6 +28,7 @@ import timeswap from './components/all_blogs/timeswap';
 import solend from './components/all_blogs/solend';
 import write from './components/all_blogs/write';
 import biconomy from './components/all_blogs/fiction/biconomy';
+import hubble from './components/all_blogs/hubble';
 
 
 
@@ -57,6 +58,7 @@ function App() {
           <Route path='/essays/timeswap' component={timeswap} />
           <Route path='/essays/solend' component={solend} />
           <Route path='/essays/biconomy' component={biconomy} />
+          <Route path='/essays/hubble' component={hubble} />
           <Route path='/fiction/freedom' component={freedom} />
           <Route path='/dead-poet-society' component={poetry} />
           <Route path='/random' component={random} />
