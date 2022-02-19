@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function anxiety() {
+function love() {
     return(
         <div className='container mx-auto text-start mt-5'>
                         <nav aria-label="breadcrumb">
