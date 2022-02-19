@@ -19,7 +19,8 @@ function love() {
             <p><br />
         <div style={{textAlign: 'center'}}>
                 <img style={{height: '500px'}} src='https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90d36413-ac1a-4122-8ecf-701595a92740_750x1334.jpeg' />
-            </div>
+            </div><br/>
+            <br/>
             This tree is right outside my house. I have more pictures of this tree than my own, as you will see down below. I certainly feel almost everything only after looking at this tree for a while. My mom thinks I am mad sometimes when I spend a lot of time just staring at it. One of the latest things that made me feel after looking at this tree was love. Not romance or all that Hollywood jazz, but just a feeling of love. The one where you feel one with something. It could be nature, a book, a song, your morning coffee, a tree, or anything. And well, sometimes, it’s another human being too. 
 <br /><br/>
 I wonder, wasn’t that the purpose of humans in the first place. I am damn sure, God gave humans a pinch of consciousness just to experience love. But everyone just became too caught up in feeling loved, that they forget to love. Everyone wants to feel loved, but nobody wants to love. They are afraid.
@@ -55,6 +56,8 @@ Love, live, and let live.
 <br/>
 Ciao.
 <br /><br/>
+<img style={{width: '100%', height: '500px'}} src='https://cdn.substack.com/image/fetch/w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa303e1d5-a84f-4dab-80ad-de5d1dd1edf1_5639x1334.png' />
+
 </p>            
 <br />
 <br />
