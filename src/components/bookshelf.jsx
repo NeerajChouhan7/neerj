@@ -22,6 +22,9 @@ export default function bookshelf(){
                     Range - David Epstein
                 </li>
                 <li>
+                    Atlas Shrugged - Ayn Rand (on hold)
+                </li>
+                <li>
                 Debt: The first 5000 years - David Graeber
                 </li>
                 
