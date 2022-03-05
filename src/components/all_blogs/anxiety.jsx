@@ -60,7 +60,7 @@ Build & nurture meaningful relationships. [MOST IMPORTANT]
 </li><li>
 Eat well. Work out or do any physical activity. As much as possible. Make these non-negotiables.
 </li><li>
-Write, journal, or do any mindful activity. Mediation and writing help you gain clarity. This helps you understand the situation from observing and could be helpful to even find a solution by being aware of your emotions. Even music, for that matter, if you prefer that.
+Write, journal, or do any mindful activity. Meditation and writing help you gain clarity. This helps you understand the situation from observing and could be helpful to even find a solution by being aware of your emotions. Even music, for that matter, if you prefer that.
 </li><li>
 WORK. Yes. Find something you are genuinely, genuinely interested in, and forget about the world. Master that art. Master that skill. Be in the top 10-20% in it. Then you will have enough self-confidence to deal with most professional problems. If not, just do something in which you have a teeny tiny interest. Any hobby or old forgotten art you used to do.
 </li></ul>
