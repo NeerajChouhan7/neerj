@@ -16,7 +16,11 @@ export default function random(){
                 </li>
                  <li>
                     <h6><a target='_blank' href='https://www.linkedin.com/in/neeraj-chouhan-profile/'>Linkedin</a></h6>
-                </li> {/*
+                </li> 
+                 <li>
+                    <h6><a target='_blank' href='https://www.instagram.com/visualpetrichor/'>Instagram</a></h6>
+                </li> 
+                {/*
                 <li>
                     <h6><a target='_blank' href='https://github.com/NeerajChouhan7'>Github</a></h6>
                 </li> */}
