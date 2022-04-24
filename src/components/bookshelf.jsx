@@ -16,16 +16,25 @@ export default function bookshelf(){
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
-                    Shantaram - Gregory David Roberts (<strike>300 pages in, finding will to pick it up again </strike> I found it! 450 pages in...)
+                    Shantaram - Gregory David Roberts (<strike>300 pages in, finding will to pick it up again </strike> I found it! 650 pages in...)
                 </li>
                 <li>
                     Range - David Epstein
                 </li>
                 <li>
+                Debt: The first 5000 years - David Graeber
+                </li>
+                <li>
+                Hippie - Paulo Coelho
+                </li>
+                <li>
                     Atlas Shrugged - Ayn Rand (on hold)
                 </li>
                 <li>
-                Debt: The first 5000 years - David Graeber
+                    The Firm -  (on hold)
+                </li>
+                <li>
+                    Outliers - Malcolm Gladwell (on hold)
                 </li>
                 
             </ul>
@@ -34,6 +43,7 @@ export default function bookshelf(){
                 <li className='highlight'>Autobiography of a yogi - Paramhansa Yogananda</li>
                 <li>My experiments with truth - M.K. Gandhi</li>
                 <li>1984 - George Orwell</li>
+                <li>Dark Matter -Blake Crouch</li>
                 <li className='highlight'>Animal Farm - George Orwell </li>
                 <li>Deep Work - Cal Newport</li>
                 <li>Think and grow rich - Napolean Hill</li>
