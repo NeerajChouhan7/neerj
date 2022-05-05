@@ -64,6 +64,9 @@ function Blogs(){
                 <Link className='essay-link' to='/essays/superficial'>Superficiality & Substance </Link>
             </div>
             <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/great'>Being great: creativity & mathematics</Link>
+            </div>
+            <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/solend'>Blockchain Deep Dive: Solend </Link>
             </div>
             <div className='essay-btn'>
