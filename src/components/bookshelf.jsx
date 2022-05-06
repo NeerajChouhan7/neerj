@@ -18,14 +18,12 @@ export default function bookshelf(){
                 <li>
                     Shantaram - Gregory David Roberts (<strike>300 pages in, finding will to pick it up again </strike> I found it! 650 pages in...)
                 </li>
+        
                 <li>
-                    Range - David Epstein
+                Men without Women - Haruki Murakami
                 </li>
                 <li>
                 Debt: The first 5000 years - David Graeber
-                </li>
-                <li>
-                Hippie - Paulo Coelho
                 </li>
                 <li>
                     Atlas Shrugged - Ayn Rand (on hold)
@@ -121,7 +119,14 @@ export default function bookshelf(){
                     Fooled by Randomness - NN Taleb
                 </li>
                 <li>
+                    Range - David Epstein
+                </li>
+                <li>
                     Kafka on the shore - Haruki Murakami
+                </li>
+    
+                <li>
+                Hippie - Paulo Coelho
                 </li>
                 <li>...will add more if I get time or remember any.</li>
             </ul>
