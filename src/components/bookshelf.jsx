@@ -20,16 +20,17 @@ export default function bookshelf(){
                 </li>
         
                 <li>
-                Men without Women - Haruki Murakami
-                </li>
-                <li>
                 Debt: The first 5000 years - David Graeber
                 </li>
                 <li>
-                    Atlas Shrugged - Ayn Rand (on hold)
+                    The Firm: Story of McKinsey -  Duff McDonald
+                </li>
+        
+                <li>
+                    Ready Player One -  Ernest Cline
                 </li>
                 <li>
-                    The Firm -  (on hold)
+                    Atlas Shrugged - Ayn Rand (on hold)
                 </li>
                 <li>
                     Outliers - Malcolm Gladwell (on hold)
@@ -128,6 +129,7 @@ export default function bookshelf(){
                 <li>
                 Hippie - Paulo Coelho
                 </li>
+    
                 <li>...will add more if I get time or remember any.</li>
             </ul>
             <h6>To Read...</h6>
