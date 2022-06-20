@@ -18,9 +18,9 @@ function Blogs(){
             <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/c_bias'>Avoiding Confirmation bias</Link>
             </div>
-            <div className='essay-btn'>
+            {/* <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/meta-curious'>Meta-Curiosity </Link>
-            </div>
+            </div> */}
             <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/privilege'>Privilege</Link>
             </div>
