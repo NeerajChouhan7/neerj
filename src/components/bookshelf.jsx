@@ -23,14 +23,14 @@ export default function bookshelf(){
                 Debt: The first 5000 years - David Graeber
                 </li>
                 <li>
-                    The Firm: Story of McKinsey -  Duff McDonald
+                    Ready Player One -  Ernest Cline
                 </li>
         
                 <li>
-                    Ready Player One -  Ernest Cline
+                    Atlas Shrugged - Ayn Rand
                 </li>
                 <li>
-                    Atlas Shrugged - Ayn Rand (on hold)
+                    The Firm: Story of McKinsey -  Duff McDonald (on hold)
                 </li>
                 <li>
                     Outliers - Malcolm Gladwell (on hold)
