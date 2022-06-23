@@ -36,7 +36,7 @@ function Home() {
         <p>Some of things I have done/doing are <Link to='/work'>here</Link></p>
         {/* <p>Currently working at <a target='_blank' href='https://upraised.co'>Upraised</a></p> */}
         <p>I write sometimes, <Link to='/essays'>here</Link></p>
-        <p>My <a target='_blank' href='https://twitter.com/neervj'>Twitter</a> & My Digital <Link to='/bookshelf'>bookshelf</Link></p>
+        <p>My <a target='_blank' href='https://twitter.com/neervj'>Twitter</a> & my digital <Link to='/bookshelf'>bookshelf</Link></p>
 
 
 
