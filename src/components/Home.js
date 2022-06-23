@@ -35,8 +35,8 @@ function Home() {
         <p>Hey, I'm <Link to='/about'>Neeraj</Link></p>
         <p>Some of things I have done/doing are <Link to='/work'>here</Link></p>
         {/* <p>Currently working at <a target='_blank' href='https://upraised.co'>Upraised</a></p> */}
-        <p>I write with my 2 brain cells <Link to='/essays'>here</Link></p>
-        <p>and write without those cells <a target='_blank' href='https://twitter.com/neervj'>here</a></p>
+        <p>I write sometimes,<Link to='/essays'>here</Link></p>
+        <p><a target='_blank' href='https://twitter.com/neervj'>Twitter</a></p>
 
 
 
