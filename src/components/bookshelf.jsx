@@ -112,7 +112,7 @@ export default function bookshelf(){
                 <li>
                     Ego is the Enemy - Ryan Holiday
                 </li>
-                <li>
+                <li className='highlight'>
                     Fooled by Randomness - NN Taleb
                 </li>
                 <li>
