@@ -31,7 +31,7 @@ function Home() {
   return (
     <div className=" container homepage mt-5 text-start">
         <h1 className='mb-3 mt-1'>Neeraj Chouhan</h1>
-        <img className='mb-5' height='100' src='https://imgur.com/a/PPriE12'/>
+        <img className='mb-5' height='100' src='https://i.imgur.com/xvG1TL4_d.webp?maxwidth=760&fidelity=grand'/>
         <p>Hey, I'm <Link to='/about'>Neeraj</Link></p>
         <p>Some of things I have done/doing are <Link to='/work'>here</Link></p>
         {/* <p>Currently working at <a target='_blank' href='https://upraised.co'>Upraised</a></p> */}
