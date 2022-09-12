@@ -33,6 +33,7 @@ import love from './components/all_blogs/love';
 import superficial from './components/all_blogs/superficial';
 import great from './components/all_blogs/great';
 import language from './components/all_blogs/language';
+import melancholic from './components/all_blogs/melancholic';
 
 
 
