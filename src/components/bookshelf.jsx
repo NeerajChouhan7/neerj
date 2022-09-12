@@ -15,22 +15,17 @@ export default function bookshelf(){
             <p>Listing down all the books that I read, just to keep track and <span className='highlight'>highlighted</span> must read books</p>
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
-                <li>
-                    Shantaram - Gregory David Roberts (<strike>300 pages in, finding will to pick it up again </strike> I found it! 650 pages in...)
-                </li>
-        
+        <li> Atlas Shrugged - Ayn Rand
+        </li>
+
                 <li>
                 Debt: The first 5000 years - David Graeber
                 </li>
                 <li>
-                    The Firm: Story of McKinsey -  Duff McDonald
-                </li>
-        
-                <li>
                     Ready Player One -  Ernest Cline
                 </li>
                 <li>
-                    Atlas Shrugged - Ayn Rand (on hold)
+                    The Firm: Story of McKinsey -  Duff McDonald (on hold)
                 </li>
                 <li>
                     Outliers - Malcolm Gladwell (on hold)
@@ -39,9 +34,10 @@ export default function bookshelf(){
             </ul>
             <h6>Books</h6>
             <ul>
+                            <li className='highlight'>Shantaram - Gregory David Roberts </li>
+<li>1984 - George Orwell</li>
                 <li className='highlight'>Autobiography of a yogi - Paramhansa Yogananda</li>
                 <li>My experiments with truth - M.K. Gandhi</li>
-                <li>1984 - George Orwell</li>
                 <li>Dark Matter -Blake Crouch</li>
                 <li className='highlight'>Animal Farm - George Orwell </li>
                 <li>Deep Work - Cal Newport</li>
@@ -116,7 +112,7 @@ export default function bookshelf(){
                 <li>
                     Ego is the Enemy - Ryan Holiday
                 </li>
-                <li>
+                <li className='highlight'>
                     Fooled by Randomness - NN Taleb
                 </li>
                 <li>

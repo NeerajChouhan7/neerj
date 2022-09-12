@@ -31,12 +31,12 @@ function Home() {
   return (
     <div className=" container homepage mt-5 text-start">
         <h1 className='mb-3 mt-1'>Neeraj Chouhan</h1>
-        <img className='mb-5' height='100' src='https://pbs.twimg.com/profile_images/1457370298744020993/aMrSEZTo_400x400.jpg'/>
+        <img className='mb-5' height='100' src='https://i.imgur.com/xvG1TL4_d.webp?maxwidth=760&fidelity=grand'/>
         <p>Hey, I'm <Link to='/about'>Neeraj</Link></p>
         <p>Some of things I have done/doing are <Link to='/work'>here</Link></p>
         {/* <p>Currently working at <a target='_blank' href='https://upraised.co'>Upraised</a></p> */}
-        <p>I write with my 2 brain cells <Link to='/essays'>here</Link></p>
-        <p>and write without those cells <a target='_blank' href='https://twitter.com/neervj'>here</a></p>
+        <p>I write sometimes, <Link to='/essays'>here</Link></p>
+        <p>My <a target='_blank' href='https://twitter.com/neervj'>Twitter</a> & digital <Link to='/bookshelf'>bookshelf</Link></p>
 
 
 
