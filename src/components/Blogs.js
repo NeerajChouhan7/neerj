@@ -70,6 +70,9 @@ function Blogs(){
                 <Link className='essay-link' to='/essays/language'>Thoughts on Language</Link>
             </div>
             <div className='essay-btn'>
+                <Link className='essay-link' to='/essays/melancholic'>Melancholic...maybe</Link>
+            </div>
+            <div className='essay-btn'>
                 <Link className='essay-link' to='/essays/solend'>Blockchain Deep Dive: Solend </Link>
             </div>
             <div className='essay-btn'>

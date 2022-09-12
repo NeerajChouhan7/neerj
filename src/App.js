@@ -32,6 +32,7 @@ import hubble from './components/all_blogs/hubble';
 import love from './components/all_blogs/love';
 import superficial from './components/all_blogs/superficial';
 import great from './components/all_blogs/great';
+import language from './components/all_blogs/language';
 
 
 
@@ -59,8 +60,10 @@ function App() {
           <Route path='/essays/write' component={write} />
           <Route path='/essays/identity' component={identity} />
           <Route path='/essays/love' component={love} />
+          <Route path='/essays/language' component={language} />
           <Route path='/essays/superficial' component={superficial} />
           <Route path='/essays/great' component={great} />
+          <Route path='/essays/melancholic' component={melancholic} />
           <Route path='/essays/timeswap' component={timeswap} />
           <Route path='/essays/solend' component={solend} />
           <Route path='/essays/biconomy' component={biconomy} />
