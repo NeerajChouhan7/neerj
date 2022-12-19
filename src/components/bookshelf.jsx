@@ -16,7 +16,7 @@ export default function bookshelf(){
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
                 <li>
-                    Norwegian Wook - Murakami
+                    Norwegian Woods - Haruki Murakami
                 </li>
                 <li>
                     Working Backwards - Story of Amazon
@@ -131,7 +131,7 @@ export default function bookshelf(){
                 <li>
                     The Firm: Story of McKinsey -  Duff McDonald
                 </li>
-                <li>...will add more if I get time or remember any.</li>
+                <li>p.s. will add more if I get time or remember any.</li>
             </ul>
             <h6>To Read...</h6>
             <ul>
