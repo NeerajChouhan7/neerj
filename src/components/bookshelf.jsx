@@ -133,7 +133,7 @@ export default function bookshelf(){
                 </li>
                 <li>p.s. will add more if I get time or remember any.</li>
             </ul>
-            <h6>To Read...</h6>
+            <h6>To Read:</h6>
             <ul>
                 <li>
                     ...everything.
