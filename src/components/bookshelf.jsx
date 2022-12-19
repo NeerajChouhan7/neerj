@@ -15,22 +15,19 @@ export default function bookshelf(){
             <p>Listing down all the books that I read, just to keep track and <span className='highlight'>highlighted</span> must read books</p>
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
-        <li> Atlas Shrugged - Ayn Rand
-        </li>
+                <li>
+                    Norwegian Wook - Murakami
+                </li>
+                <li>
+                    Working Backwards - Story of Amazon
+                </li>
+                <li>
+                    You are not so smart - David McRaney
+                </li>
+                <li>
+                    The Mountain Shadow - Gregory David Roberts
+                </li>
 
-                <li>
-                Debt: The first 5000 years - David Graeber
-                </li>
-                <li>
-                    Ready Player One -  Ernest Cline
-                </li>
-                <li>
-                    The Firm: Story of McKinsey -  Duff McDonald (on hold)
-                </li>
-                <li>
-                    Outliers - Malcolm Gladwell (on hold)
-                </li>
-                
             </ul>
             <h6>Books</h6>
             <ul>
@@ -125,31 +122,22 @@ export default function bookshelf(){
                 <li>
                 Hippie - Paulo Coelho
                 </li>
-    
+                <li>
+                    Debt: The first 5000 years - David Graeber
+                </li>
+                <li>
+                    Ready Player One -  Ernest Cline
+                </li>
+                <li>
+                    The Firm: Story of McKinsey -  Duff McDonald
+                </li>
                 <li>...will add more if I get time or remember any.</li>
             </ul>
             <h6>To Read...</h6>
             <ul>
                 <li>
-
-            The Eagle has landed - Jack Higgins
+                    ...everything.
                 </li>
-                <li>
-                    12 Years A Slave
-                </li>
-               
-                <li>Juilius Caesar</li>
-                <li>Corporate Chanakya</li>
-                <li>In defence of sanity - G.K. Chesterton</li>
-                <li>Brief history of religion - Richard H.</li>
-                <li>Made in America - Sam Walton</li>
-                <li>To sell is human - Daniel Pink</li>
-                <li>Modern man in search of soul - Carl Jung</li>
-                <li>Range - David Epstein</li>
-                <li>Surely You're Joking, Mr. Feynman! - Richard Feynman</li>
-                <li>Atonment - Iam Mac Ewan</li>
-                <li>The three body problem</li>
-                <li>Greatest salesman in the world</li>
             </ul>
         </div>
         </div>
