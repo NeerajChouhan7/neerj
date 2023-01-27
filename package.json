@@ -1,1 +1,25 @@
-{}
+{
+    "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
+    "build": "webpack --config=Scripts/config/webpack.prod.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "name": "neerj",
+    "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "webpack --watch",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NeerajChouhan7/neerj.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NeerajChouhan7/neerj/issues"
+    },
+    "homepage": "https://github.com/NeerajChouhan7/neerj#readme"
+}
