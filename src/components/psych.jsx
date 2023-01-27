@@ -61,7 +61,7 @@ function Psych() {
                     <p>Figuring out the origins of language in evolution's biggest mystery and we still cannot find it out. Even so that once the Linguistic Society of Paris banned the discussion on this topic: <a href='https://www.languageinsight.com/blog/2019/the-origin-of-language-evolutions-greatest-mystery/'>https://www.languageinsight.com/blog/2019/the-origin-of-language-evolutions-greatest-mystery/</a></p>
                     <p>Short article on who's Noam Chomsky also know as the father of modern linguistics & what is his theory of language origin: <a href='https://blog.mangolanguages.com/noam-chomsky-his-contribution-to-linguistics/'>https://blog.mangolanguages.com/noam-chomsky-his-contribution-to-linguistics/</a></p>
                     <hr/>
-                    <h5>Psychology behind different social media applications</h5>
+                    <h5>Psychology behind different social media applications:</h5>
                     <p>TikTok: <a href='https://growth.design/case-studies/tiktok-feed-psychology/'>https://growth.design/case-studies/tiktok-feed-psychology/</a></p>
                     <p>Snapchat 1. <a href='https://medium.com/svilenk/the-neuroscience-behind-the-success-of-snapchats-stories-effa1311214f'>https://medium.com/svilenk/the-neuroscience-behind-the-success-of-snapchats-stories-effa1311214f</a></p>
                     <p>2. <a href='https://www.nirandfar.com/psychology-of-snapchat/'>https://www.nirandfar.com/psychology-of-snapchat/</a></p>
