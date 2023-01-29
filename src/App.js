@@ -1,6 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
-import Switch from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from './components/Home'
 import Blogs from './components/Blogs';
 import work from './components/work';
@@ -43,42 +42,42 @@ function App() {
   return (
     <div>
       <Router>
-        <Switch>
-          <Route path='/' exact component={Home} />
-          <Route path='/essays/memes' component={memes} />
-          <Route path='/essays/c_bias' component={c_bias} />
-          <Route path='/essays/stories' component={stories} />
-          <Route path='/essays/cinema' component={cinema} />
-          <Route path='/essays/meta-curious' component={curious} />
-          <Route path='/essays/metaverse' component={metaverse} />
-          <Route path='/essays/privilege' component={privilege} />
-          <Route path='/essays/friendships' component={friends} />
-          <Route path='/essays/music' component={music} />
-          <Route path='/essays/fear-and-freedom' component={fear} />
-          <Route path='/essays/anxiety' component={anxiety} />
-          <Route path='/essays/thinking-mold' component={thinking} />
-          <Route path='/essays/morality' component={morality} />
-          <Route path='/essays/truth' component={truth} />
-          <Route path='/essays/write' component={write} />
-          <Route path='/essays/identity' component={identity} />
-          <Route path='/essays/love' component={love} />
-          <Route path='/essays/language' component={language} />
-          <Route path='/essays/superficial' component={superficial} />
-          <Route path='/essays/great' component={great} />
-          <Route path='/essays/melancholic' component={melancholic} />
-          <Route path='/essays/timeswap' component={timeswap} />
-          <Route path='/essays/solend' component={solend} />
-          <Route path='/essays/biconomy' component={biconomy} />
-          <Route path='/essays/hubble' component={hubble} />
-          <Route path='/fiction/freedom' component={freedom} />
-          <Route path='/dead-poet-society' component={poetry} />
-          <Route path='/random' component={random} />
-          <Route path='/bookshelf' component={bookshelf} />
-          <Route path='/essays' component={Blogs} />
-          <Route path='/work' component={work} />
-          <Route path='/about' component={About} />
-          <Route path='/psych-archives' component={Psych} />
-        </Switch>
+        <Routes>
+          <Route path='/' exact element={Home} />
+          <Route path='/essays/memes' element={memes} />
+          <Route path='/essays/c_bias' element={c_bias} />
+          <Route path='/essays/stories' element={stories} />
+          <Route path='/essays/cinema' element={cinema} />
+          <Route path='/essays/meta-curious' element={curious} />
+          <Route path='/essays/metaverse' element={metaverse} />
+          <Route path='/essays/privilege' element={privilege} />
+          <Route path='/essays/friendships' element={friends} />
+          <Route path='/essays/music' element={music} />
+          <Route path='/essays/fear-and-freedom' element={fear} />
+          <Route path='/essays/anxiety' element={anxiety} />
+          <Route path='/essays/thinking-mold' element={thinking} />
+          <Route path='/essays/morality' element={morality} />
+          <Route path='/essays/truth' element={truth} />
+          <Route path='/essays/write' element={write} />
+          <Route path='/essays/identity' element={identity} />
+          <Route path='/essays/love' element={love} />
+          <Route path='/essays/language' element={language} />
+          <Route path='/essays/superficial' element={superficial} />
+          <Route path='/essays/great' element={great} />
+          <Route path='/essays/melancholic' element={melancholic} />
+          <Route path='/essays/timeswap' element={timeswap} />
+          <Route path='/essays/solend' element={solend} />
+          <Route path='/essays/biconomy' element={biconomy} />
+          <Route path='/essays/hubble' element={hubble} />
+          <Route path='/fiction/freedom' element={freedom} />
+          <Route path='/dead-poet-society' element={poetry} />
+          <Route path='/random' element={random} />
+          <Route path='/bookshelf' element={bookshelf} />
+          <Route path='/essays' element={Blogs} />
+          <Route path='/work' element={work} />
+          <Route path='/about' element={About} />
+          <Route path='/psych-archives' element={Psych} />
+        </Routes>
       </Router>
     </div>
   );
