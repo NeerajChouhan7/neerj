@@ -21,10 +21,17 @@ export default function bookshelf(){
                     IQ84 - Haruki Murakami
                 </li>
                 <li>
-                    How to Sell Like a Champion
+                    Working Backwards - Colin Bryar & Bill Carr
                 </li>
         <li>
                     Anti-Fragile - NN Taleb
+                </li>
+        <li>
+                    What I Talk About When I Talk About Running - Haruki Murakami (on hold)
+                </li>
+        
+        <li>
+                    How Life Imitates Chess - Garry Kasparov (on hold)
                 </li>
         
         
@@ -142,6 +149,7 @@ export default function bookshelf(){
                 <li>The Prophet</li>
                 <li>Principles - Ray Dalio</li>
                 <li>The Mom Test - How to talk to customers</li>
+                <li>How to Sell Like a Champion</li>
     
                 <li>...will add more if I get time or remember any.</li>
             </ul>
