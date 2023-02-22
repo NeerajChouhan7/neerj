@@ -15,19 +15,27 @@ export default function bookshelf(){
             <p>Listing down all the books that I read, just to keep track and <span className='highlight'>highlighted</span> must read books</p>
             <h6 className='mt-5'>Currently Reading...</h6>
             <ul>
-                <li>
-                    Norwegian Woods - Haruki Murakami
-                </li>
-                <li>
-                    Working Backwards - Story of Amazon
-                </li>
-                <li>
-                    You are not so smart - David McRaney
-                </li>
-                <li>
-                    The Mountain Shadow - Gregory David Roberts
-                </li>
 
+                
+                <li>
+                    IQ84 - Haruki Murakami
+                </li>
+                <li>
+                    Working Backwards - Colin Bryar & Bill Carr
+                </li>
+        <li>
+                    Anti-Fragile - NN Taleb
+                </li>
+        <li>
+                    What I Talk About When I Talk About Running - Haruki Murakami (on hold)
+                </li>
+        
+        <li>
+                    How Life Imitates Chess - Garry Kasparov (on hold)
+                </li>
+        
+        
+                
             </ul>
             <h6>Books</h6>
             <ul>
@@ -122,22 +130,28 @@ export default function bookshelf(){
                 <li>
                 Hippie - Paulo Coelho
                 </li>
-                <li>
+                <li className='highlight'>
                     Debt: The first 5000 years - David Graeber
                 </li>
                 <li>
                     Ready Player One -  Ernest Cline
                 </li>
                 <li>
-                    The Firm: Story of McKinsey -  Duff McDonald
+                    The Firm: Story of McKinsey -  Duff McDonald 
                 </li>
-                <li>p.s. will add more if I get time or remember any.</li>
-            </ul>
-            <h6>To Read:</h6>
-            <ul>
-                <li>
-                    ...everything.
-                </li>
+   
+                <li>Range - David Epstein</li>
+                <li>Norwegian Wood - Haruki Murakami</li>
+                <li>Rework - Jason Fried</li>
+                <li>Straight Line Selling System - Jordan Belfort</li>
+                <li>Black Swan - NN Taleb</li>
+                <li className='highlight'>Anti-Fragile - NN Taleb</li>
+                <li>The Prophet</li>
+                <li>Principles - Ray Dalio</li>
+                <li>The Mom Test - How to talk to customers</li>
+                <li>How to Sell Like a Champion</li>
+    
+                <li>...will add more if I get time or remember any.</li>
             </ul>
         </div>
         </div>

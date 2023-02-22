@@ -13,14 +13,21 @@ function Work() {
             </nav>
             
            <h6>Do</h6>
-           <li>
-            Writing newsletter, about almost everything, called <a  target='_blank' href='https://neerajc.substack.com/'>Thinking Mold</a>.
+            <li>
+            Ideating on a product. If you are a manager or team leader... <a target='_blank' href='https://twitter.com/neervj'>DM</a>!
            </li>
+            <li>
+                Working at <a target='_blank' href='https://emerge.io'>Emerge</a> as Special Projects Intern.
+            </li>
            <li>
-            Running a newsletter on psychology with ~300 members. Click <a  target='_blank' href='https://api.whatsapp.com/send/?phone=917247796922&text=Hey,+I+got+to+know+about+Psych.+I+would+love+to+be+part+of+it!&app_absent=0'>here</a> to join. You can visit the archives <Link to='/psych-archives'>here</Link> 
+            Writing some essays , <Link to='/essays'>here</Link></p>
            </li>
            <br/>
            <h6>Did</h6>
+        
+           <li>
+            Ran a newsletter on psychology with ~300 members. You can visit the archives <Link to='/psych-archives'>here</Link> 
+           </li>
            <li>
            Did generalist stuff at <a target='_blank' href='https://market.xyz'>Market</a>
            </li>
@@ -39,6 +46,7 @@ function Work() {
            </li>           
            <br/>
            <br/><br/>
+            <a target='_blank' href='https://twitter.com/neervj'>DM</a> me.
         </div>
     )
 }
