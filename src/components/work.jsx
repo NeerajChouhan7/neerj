@@ -20,7 +20,7 @@ function Work() {
                 Working at <a target='_blank' href='https://emerge.io'>Emerge</a> as Special Projects Intern.
             </li>
            <li>
-            Writing some essays , <Link to='/essays'>here</Link></p>
+            <p>Writing some essays , <Link to='/essays'>here</Link></p>
            </li>
            <br/>
            <h6>Did</h6>

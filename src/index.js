@@ -6,8 +6,6 @@ import './index.css';
 import { HashRouter } from "react-router-dom";
 
 
-  <HashRouter>
-
 ReactDOM.render(
   <React.StrictMode>
       <HashRouter>
